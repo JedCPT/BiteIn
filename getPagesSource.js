@@ -6123,7 +6123,6 @@ try {
         i = i + 1;
         if (i >= 1000) { throw BreakException; };
 
-        
         // var string = el.word;
         // var trans = el.translation;
         // https://github.com/tkivisik/dict-en-nl/blob/master/testing.json
@@ -6133,7 +6132,7 @@ try {
 //        if (findThis !== "undefined") { console.log(findThis); };
         var reWordChanger = new RegExp(findThis,"g");
 
-        html_text = html_text.replace(reWordChanger, " <span style='background-color: #FFFF00' title='"+el.word+"'>"+el.translation+"</span> ");
+        html_text = html_text.replace(reWordChanger, " <span style='background-color: #FFFF00;' title='"+el.word+"'>"+el.translation+"</span> ");
 //        html_text = html_text.replace(reWordChanger, " <span class='highlight'>"+el.translation+"</span> ");
         // html_text.split(string).join(trans);
         // html_text.replace(new RegExp(string, 'g'), "<span class='highlight'>"+trans+"</span>");
@@ -6142,7 +6141,7 @@ try {
     if (e !== BreakException) throw e;
 }
 
-console.log(something);
+//console.log(something);
 
 document.body.innerHTML = html_text;
 
