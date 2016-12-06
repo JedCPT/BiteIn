@@ -1,16 +1,16 @@
 {
   "name": "BiteIn",
-  "description": "Learn a language seamlessly by parly translating the content of webpages",
+  "description": "Learn a language seamlessly by partly translating the content of webpages",
   "version": "0.2",
   "permissions": [
       "activeTab"
     ],
   "background": {
-      "scripts": ["content.js", "getPagesSource.js", "jquery-3.1.1.min.js"],
+      "scripts": ["content.js", "main.js", "jquery-3.1.1.js"],
       "persistent": false
     },
   "browser_action": {
-      "default_title": "Zing Translator"
+      "default_title": "BiteIn"
     },
   "manifest_version": 2,
   "icons": { "16": "icon.png",
