@@ -6,6 +6,30 @@
 //console.log(document);
 //document.getElementsByTagName('p')
 //console.log(document.getElementsByTagName('p'));
+
+var w = [
+	{
+		"word":"people",
+		"translation":"mensen"
+	},
+	{
+		"word":"history",
+		"translation":"geschiedenis"
+	},
+	{
+		"word":"way",
+		"translation":"manier"
+	},
+	{
+		"word":"art",
+		"translation":"kunst"
+	},
+	{
+		"word":"world",
+		"translation":"wereld-"
+	}]
+
+
 rootNode = document.body.firstChild;
 
 traverseHTML(rootNode)
@@ -21,9 +45,7 @@ traverseHTML(rootNode)
 // 	node = node.nextSibling
 // };
 
-function translate(str) {
 
-};
 
 function isJS(node) {
 	return node.nodeValue.indexOf('{') != -1 || node.nodeValue.indexOf('<') != -1;
@@ -37,10 +59,42 @@ function traverseHTML(node){
 		}
 		else if (node.nodeType == 3 && !isJS(node) && node.nodeValue.length > 2){
 			console.log(node.nodeValue);
+			node.nodeValue = translate(node.nodeValue);
+			console.log(translate(node.nodeValue));
 		};
 		node = node.nextSibling;
 	}
 };
+
+function translate(str){
+	w.forEach(function(ww) {
+		var findThis = String("\\s" + ww.word + "[\\s,.!?]");
+		var reWordChanger = new RegExp(findThis,"g");
+		console.log(str);
+		str.replace(reWordChanger, " <span style='background-color: #FFFF00;' title='" + ww.word + "'>" + ww.translation + "</span> ");
+
+		console.log(str);
+
+	});
+	return str;
+
+
+	// for each(function(el) {
+	//
+	//
+    //     var findThis = String("\\s" + el.word + "[\\s,.!?]");
+    //     var reWordChanger = new RegExp(findThis,"g");
+	//
+    //     str.replace(reWordChanger, " <span style='background-color: #FFFF00;' title='"+el.word+"'>"+el.translation+"</span> ");
+	//
+    // });
+	//return "hello";
+
+};
+
+
+
+
 		// switch (node.nodeType) {
 		// case Node.ELEMENT_NODE:
 		// 		html += node.outerHTML;
