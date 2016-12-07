@@ -17,6 +17,6 @@
            "48": "icon.png",
           "128": "icon.png" },
   "web_accessible_resources": [
-    "chrome-extension://lbjjipgopkonaagjhneednjfmhdopjfo/words.json"
+    "words.json"
     ]
 }

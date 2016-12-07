@@ -1,18 +1,23 @@
-// @author Rob W <http://stackoverflow.com/users/938089
+// BiteIn:
+// @author Jedda Boyle <jeddaboyle@gmail.com>
+// @author Taavi Kivisik <taavi.kivisik@gmail.com>
 
-var s = document.createElement("script");
-s.src = "chrome-extension://lbjjipgopkonaagjhneednjfmhdopjfo/words.js"
-document.body.appendChild(s);
-var w = { "people":"mensen"}
-
-console.log(www);
+// Read external JSON file into the words variable.
+var words;
+var xhr = new XMLHttpRequest();
+xhr.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+        words = JSON.parse(this.responseText);
+    }
+};
+xhr.open("GET", chrome.extension.getURL('words.json'), false);
+xhr.send();
 
 // Check if the word between index n and m is in the dictionary of translatable
 // words. If it is replace the substring between n and m with the translation
 // of the word.
-
 function insertTranslatedWord(str, n, m){
-	word = w[str.substring(n, m)];
+	word = words[str.substring(n, m)];
 	if (word == null){
 		return null;
 	};
