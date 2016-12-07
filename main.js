@@ -7,32 +7,111 @@
 //document.getElementsByTagName('p')
 //console.log(document.getElementsByTagName('p'));
 
-var w = [
-	{
-		"word":"people",
-		"translation":"mensen"
-	},
-	{
-		"word":"history",
-		"translation":"geschiedenis"
-	},
-	{
-		"word":"way",
-		"translation":"manier"
-	},
-	{
-		"word":"art",
-		"translation":"kunst"
-	},
-	{
-		"word":"world",
-		"translation":"wereld-"
-	}]
+var w = { "people":"mensen"}
+
+function stringInsert(str, toInsert, n, m){
+	return str.slice(0, n) + toInsert + str.slice(m);
+};
+
+function func(str, n, m){
+	word = w[str.substring(n, m)];
+	if (word != null){
+		return str.slice(0, n) + word + str.slice(m);
+	};
+	return null;
+}
+
+// rootNode = document.body.firstChild;
+var myNodelist = document.getElementsByTagName("p");
+var i;
+for (i = 0; i < myNodelist.length; i++) {
+	str = myNodelist[i].innerHTML;
+	var j;
+	count = 0
+	c = 0
+	for (j = 0; j < str.length; j++){
+		var xx = null;
+		if (str[j] == '<') {
+			//console.log(str.substring(c, j))
+			xx = func(str, c, j);
+			//str = stringInsert(str, w[str.substring(c, j)], c, j);
+			count += 1;
+		}
+		else if (str[j] == '>') {
+			count -= 1;
+			c = j + 1;
+		}
+		//console.log("here");
+		else if (count == 0){
+			//next_space = str.indexOf(' ', j)
+			// Check if character is not a letter.
+			if (str[j].match(/[a-z]/i) == null){
+				//console.log("hello");
+				//console.log(str.substring(c, j))
+				//var x = w[str.substring(c, j)];
+				xx = func(str, c, j);
+				// if (xx == null) {
+				// 	//stringInsert(str, w[str.substring(c, j)], c, j);//str.slice(0, c) + w[str.substring(c, j)] + str.slice(j);
+				// 	//j = c;
+				// 	c = j + 1;
+				// }
+				// else {
+				// 	str = xx;
+				// 	j = c;
+				// 	//c = j + 1;
+				// }
+				//console.log(w[str.substring(c, j)]);
+				c = j + 1;
 
 
-rootNode = document.body.firstChild;
+			}
+			//.substring(j, str.indexOf(' ', j)));
+			//if str.substring(j, str.indexOf(' ', j))
+			//j = min(next_space, str.indexOf(' ', j))
+		}
+		if (xx != null) {
+			//stringInsert(str, w[str.substring(c, j)], c, j);//str.slice(0, c) + w[str.substring(c, j)] + str.slice(j);
+			//j = c;
+			str = xx;
+			j = c;
+		}
+		else {
+			//str = xx;
+			//j = c;
+			//c = j + 1;
+		}
+	}
+	console.log(str);
+	myNodelist[i].innerHTML = str;
+	//console.log(myNodelist[i].innerHTML);
+    //myNodelist[i].style.backgroundColor = "red";
+	// w.forEach(function(ww) {
 
-traverseHTML(rootNode)
+	// 	console.log(str);
+	// 	var findThis = String("\\s" + ww.word + "[\\s,.!?]");
+	// 	var reWordChanger = new RegExp(findThis,"g");
+	// 	//console.log(str);
+	// 	myNodelist[i].innerHTML = str.replace(reWordChanger, " <span style='background-color: #FFFF00;' title='" + ww.word + "'>" + ww.translation + "</span> ");
+	//
+	//
+	// });
+
+}
+// z = chrome.extension.getURL("./words.json");
+// var xhr = new XMLHttpRequest();
+// xhr.open("GET", z, true);
+// xhr.send();
+
+
+//JSON.parse('{}')
+//$.getJSON(chrome.extension.getURL('words.json'), function(settings) {
+  //..
+//});
+//$.getJSON("words.json");
+//JSON.parse()
+//x = JSON.stringify(eval("(" + z + ")"));
+
+//traverseHTML(rootNode)
 // while (node) {
 // 	if (node.nodeType == 1){
 // 		console.log(node.firstChild);
@@ -46,51 +125,51 @@ traverseHTML(rootNode)
 // };
 
 
-
-function isJS(node) {
-	return node.nodeValue.indexOf('{') != -1 || node.nodeValue.indexOf('<') != -1;
-};
-
-function traverseHTML(node){
-	while(node){
-
-		if (node.hasChildNodes()){
-			traverseHTML(node.firstChild);
-		}
-		else if (node.nodeType == 3 && !isJS(node) && node.nodeValue.length > 2){
-			console.log(node.nodeValue);
-			node.nodeValue = translate(node.nodeValue);
-			console.log(translate(node.nodeValue));
-		};
-		node = node.nextSibling;
-	}
-};
-
-function translate(str){
-	w.forEach(function(ww) {
-		var findThis = String("\\s" + ww.word + "[\\s,.!?]");
-		var reWordChanger = new RegExp(findThis,"g");
-		console.log(str);
-		str.replace(reWordChanger, " <span style='background-color: #FFFF00;' title='" + ww.word + "'>" + ww.translation + "</span> ");
-
-		console.log(str);
-
-	});
-	return str;
-
-
-	// for each(function(el) {
-	//
-	//
-    //     var findThis = String("\\s" + el.word + "[\\s,.!?]");
-    //     var reWordChanger = new RegExp(findThis,"g");
-	//
-    //     str.replace(reWordChanger, " <span style='background-color: #FFFF00;' title='"+el.word+"'>"+el.translation+"</span> ");
-	//
-    // });
-	//return "hello";
-
-};
+// function isJS(node) {
+// 	return node.nodeValue.indexOf('{') != -1 || node.nodeValue.indexOf('<') != -1;
+// };
+//
+// function traverseHTML(node){
+// 	while(node){
+//
+// 		if (node.hasChildNodes()){
+// 			traverseHTML(node.firstChild);
+// 		}
+// 		else if (node.nodeType == 3 && !isJS(node) && node.nodeValue.length > 2){
+// 			//console.log(node.nodeValue);
+// 			node.nodeValue = translate(node.nodeValue);
+// 			//console.log(translate(node.nodeValue));
+// 		};
+// 		node = node.nextSibling;
+// 	}
+// };
+//
+// function translate(str){
+// 	//console.log("hh" + str);
+// 	w.forEach(function(ww) {
+// 		var findThis = String("\\s" + ww.word + "[\\s,.!?]");
+// 		var reWordChanger = new RegExp(findThis,"g");
+// 		//console.log(str);
+// 		str = str.replace(reWordChanger, " <span style='background-color: #FFFF00;' title='" + ww.word + "'>" + ww.translation + "</span> ");
+//
+// 		//console.log("hh" + str);
+//
+// 	});
+// 	return str;
+//
+//
+// 	// for each(function(el) {
+// 	//
+// 	//
+//     //     var findThis = String("\\s" + el.word + "[\\s,.!?]");
+//     //     var reWordChanger = new RegExp(findThis,"g");
+// 	//
+//     //     str.replace(reWordChanger, " <span style='background-color: #FFFF00;' title='"+el.word+"'>"+el.translation+"</span> ");
+// 	//
+//     // });
+// 	//return "hello";
+//
+// };
 
 
 
