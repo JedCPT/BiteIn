@@ -7,3 +7,7 @@
 * Paulina Siwak - paulina.siwak94@gmail.com,
 * Taavi Kivisik - taavi.kivisik@gmail.com
 * Zhi Li - zhi.li.work@gmail.com
+
+## TODO List
+* Get vocab lists into JSON files.
+* Add visual element to translated words.
