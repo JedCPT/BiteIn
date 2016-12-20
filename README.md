@@ -9,5 +9,4 @@
 * Zhi Li - zhi.li.work@gmail.com
 
 ## TODO List
-* Get vocab lists into JSON files.
-* Add visual element to translated words.
+* Add characters to the allowed word break set. eg < and >

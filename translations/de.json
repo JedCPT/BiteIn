@@ -1,0 +1,2710 @@
+{
+	"people":"menschen",
+
+	"history":"geschichte",
+
+	"way":"art und weise",
+
+	"art":"kunst",
+
+	"world":"welt",
+
+	"information":"informationen",
+
+	"map":"karte",
+
+	"two":"zwei",
+
+	"family":"familie",
+
+	"government":"regierung",
+
+	"health":"gesundheit",
+
+	"system":"system",
+
+	"computer":"computer",
+
+	"meat":"fleisch",
+
+	"year":"jahr",
+
+	"thanks":"vielen dank",
+
+	"music":"musik",
+
+	"person":"person",
+
+	"reading":"lesen",
+
+	"method":"methode",
+
+	"data":"daten",
+
+	"food":"essen",
+
+	"theory":"theorie",
+
+	"law":"gesetz",
+
+	"bird":"vogel",
+
+	"literature":"literatur",
+
+	"problem":"problem",
+
+	"software":"software",
+
+	"control":"kontrolle",
+
+	"knowledge":"wissen",
+
+	"power":"macht",
+
+	"economics":"wirtschaft",
+
+	"love":"liebe",
+
+	"internet":"internet",
+
+	"television":"fernsehen",
+
+	"science":"wissenschaft",
+
+	"library":"bibliothek",
+
+	"nature":"natur",
+
+	"fact":"tatsache",
+
+	"product":"produkt",
+
+	"idea":"idee",
+
+	"temperature":"temperatur",
+
+	"investment":"investitionen",
+
+	"area":"bereich",
+
+	"society":"gesellschaft",
+
+	"story":"geschichte",
+
+	"industry":"industrie",
+
+	"media":"medien",
+
+	"thing":"sache",
+
+	"oven":"ofen",
+
+	"community":"gemeinschaft",
+
+	"definition":"definition",
+
+	"safety":"sicherheit",
+
+	"development":"entwicklung",
+
+	"language":"sprache",
+
+	"management":"management",
+
+	"player":"spieler",
+
+	"variety":"vielfalt",
+
+	"video":"video",
+
+	"week":"woche",
+
+	"security":"sicherheit",
+
+	"country":"land",
+
+	"movie":"film",
+
+	"organization":"organisation",
+
+	"physics":"physik",
+
+	"analysis":"analyse",
+
+	"policy":"politik",
+
+	"series":"serie",
+
+	"thought":"gedanken",
+
+	"basis":"grundlage",
+
+	"boyfriend":"freund",
+
+	"direction":"richtung",
+
+	"strategy":"strategie",
+
+	"technology":"technologie",
+
+	"army":"armee",
+
+	"camera":"kamera",
+
+	"freedom":"freiheit",
+
+	"paper":"papier",
+
+	"environment":"umgebung",
+
+	"child":"kind",
+
+	"instance":"instanz",
+
+	"month":"monat",
+
+	"truth":"wahrheit",
+
+	"marketing":"marketing",
+
+	"writing":"schreiben",
+
+	"article":"artikel",
+
+	"department":"abteilung",
+
+	"difference":"unterschied",
+
+	"goal":"ziel",
+
+	"news":"news",
+
+	"audience":"publikum",
+
+	"fishing":"angeln",
+
+	"growth":"wachstum",
+
+	"income":"einkommen",
+
+	"marriage":"ehe",
+
+	"user":"benutzer",
+
+	"combination":"kombination",
+
+	"failure":"fehler",
+
+	"meaning":"bedeutung",
+
+	"medicine":"medizin",
+
+	"philosophy":"philosophie",
+
+	"teacher":"lehrer",
+
+	"communication":"kommunikation",
+
+	"night":"nacht",
+
+	"chemistry":"chemie",
+
+	"disease":"krankheit",
+
+	"energy":"energie",
+
+	"nation":"nation",
+
+	"role":"rolle",
+
+	"soup":"suppe",
+
+	"advertising":"werbung",
+
+	"location":"lage",
+
+	"success":"erfolg",
+
+	"apartment":"wohnung",
+
+	"education":"bildung",
+
+	"math":"mathematik",
+
+	"moment":"augenblick",
+
+	"painting":"malerei",
+
+	"politics":"politik",
+
+	"attention":"aufmerksamkeit",
+
+	"decision":"entscheidung",
+
+	"event":"event",
+
+	"property":"immobilien",
+
+	"shopping":"einkaufen",
+
+	"student":"student",
+
+	"wood":"holz",
+
+	"competition":"wettbewerb",
+
+	"distribution":"verteilung",
+
+	"entertainment":"unterhaltung",
+
+	"unit":"einheit",
+
+	"category":"kategorie",
+
+	"cigarette":"zigarette",
+
+	"context":"kontext",
+
+	"opportunity":"gelegenheit",
+
+	"performance":"leistung",
+
+	"driver":"treiber",
+
+	"flight":"flug",
+
+	"magazine":"magazin",
+
+	"newspaper":"zeitung",
+
+	"relationship":"beziehung",
+
+	"teaching":"lehre",
+
+	"cell":"zelle",
+
+	"finding":"suche nach",
+
+	"lake":"see",
+
+	"member":"mitglied",
+
+	"message":"nachricht",
+
+	"phone":"telefon",
+
+	"scene":"szene",
+
+	"appearance":"aussehen",
+
+	"association":"verband",
+
+	"concept":"konzept",
+
+	"customer":"kunden",
+
+	"death":"tod",
+
+	"discussion":"diskussion",
+
+	"inflation":"inflation",
+
+	"insurance":"versicherung",
+
+	"mood":"stimmung",
+
+	"woman":"frau",
+
+	"advice":"beratung",
+
+	"blood":"blut",
+
+	"effort":"aufwand",
+
+	"expression":"ausdruck",
+
+	"importance":"bedeutung",
+
+	"opinion":"stellungnahme",
+
+	"payment":"zahlung",
+
+	"responsibility":"verantwortung",
+
+	"situation":"lage",
+
+	"skill":"geschicklichkeit",
+
+	"wealth":"reichtum",
+
+	"application":"anwendung",
+
+	"city":"stadt",
+
+	"county":"grafschaft",
+
+	"depth":"tiefe",
+
+	"estate":"immobilien",
+
+	"foundation":"stiftung",
+
+	"heart":"herz",
+
+	"perspective":"perspektive",
+
+	"photo":"foto",
+
+	"recipe":"rezept",
+
+	"studio":"studio",
+
+	"topic":"thema",
+
+	"collection":"kollektion",
+
+	"depression":"depression",
+
+	"imagination":"phantasie",
+
+	"passion":"leidenschaft",
+
+	"percentage":"prozentsatz",
+
+	"resource":"ressource",
+
+	"setting":"einstellung",
+
+	"ad":"diese",
+
+	"agency":"agentur",
+
+	"college":"college",
+
+	"connection":"verbindung",
+
+	"criticism":"kritik",
+
+	"debt":"schulden",
+
+	"description":"beschreibung",
+
+	"memory":"speicher",
+
+	"patience":"geduld",
+
+	"administration":"verwaltung",
+
+	"aspect":"aspekt",
+
+	"attitude":"haltung",
+
+	"director":"regisseur",
+
+	"psychology":"psychologie",
+
+	"recommendation":"empfehlung",
+
+	"response":"antwort",
+
+	"selection":"auswahl",
+
+	"storage":"lagerung",
+
+	"version":"version",
+
+	"alcohol":"alkohol",
+
+	"argument":"argument",
+
+	"complaint":"beschwerde",
+
+	"contract":"vertrag",
+
+	"emphasis":"schwerpunkt",
+
+	"highway":"autobahn",
+
+	"loss":"verlust",
+
+	"membership":"mitgliedschaft",
+
+	"possession":"besitz",
+
+	"preparation":"vorbereitung",
+
+	"steak":"steak",
+
+	"union":"union",
+
+	"agreement":"vereinbarung",
+
+	"cancer":"krebs",
+
+	"engineering":"engineering",
+
+	"entry":"eintrag",
+
+	"interaction":"interaktion",
+
+	"mixture":"mischung",
+
+	"region":"region",
+
+	"republic":"republik",
+
+	"tradition":"tradition",
+
+	"virus":"virus",
+
+	"actor":"schauspieler",
+
+	"classroom":"klassenzimmer",
+
+	"delivery":"lieferung",
+
+	"difficulty":"schwierigkeiten",
+
+	"drama":"drama",
+
+	"election":"wahl",
+
+	"engine":"motor",
+
+	"guidance":"anleitung",
+
+	"hotel":"hotel",
+
+	"protection":"schutz",
+
+	"suggestion":"vorschlag",
+
+	"tension":"spannung",
+
+	"variation":"variation",
+
+	"anxiety":"angst",
+
+	"awareness":"bewusstsein",
+
+	"bath":"bad",
+
+	"bread":"brot",
+
+	"candidate":"kandidat",
+
+	"climate":"klima",
+
+	"comparison":"vergleich",
+
+	"confusion":"verwirrung",
+
+	"construction":"bau",
+
+	"elevator":"aufzug",
+
+	"emotion":"emotion",
+
+	"employee":"mitarbeiter",
+
+	"employer":"arbeitgeber",
+
+	"guest":"gast",
+
+	"mall":"einkaufszentrum",
+
+	"manager":"manager",
+
+	"operation":"betrieb",
+
+	"recording":"aufnahme",
+
+	"sample":"probe",
+
+	"transportation":"transport",
+
+	"cousin":"vetter",
+
+	"disaster":"katastrophe",
+
+	"editor":"editor",
+
+	"efficiency":"effizienz",
+
+	"excitement":"spannung",
+
+	"feedback":"feedback",
+
+	"guitar":"gitarre",
+
+	"homework":"hausaufgaben",
+
+	"mom":"mutter",
+
+	"outcome":"ergebnis",
+
+	"permission":"berechtigung",
+
+	"reflection":"reflexion",
+
+	"revenue":"einnahmen",
+
+	"session":"sitzung",
+
+	"tennis":"tennis",
+
+	"basket":"korb",
+
+	"bonus":"bonus",
+
+	"cabinet":"kabinett",
+
+	"childhood":"kindheit",
+
+	"church":"kirche",
+
+	"clothes":"kleidung",
+
+	"coffee":"kaffee",
+
+	"dinner":"abendessen",
+
+	"drawing":"zeichnung",
+
+	"hair":"haare",
+
+	"initiative":"initiative",
+
+	"judgment":"urteil",
+
+	"lab":"lab",
+
+	"measurement":"messung",
+
+	"mode":"modus",
+
+	"mud":"schlamm",
+
+	"orange":"orange",
+
+	"poetry":"poesie",
+
+	"police":"polizei",
+
+	"procedure":"verfahren",
+
+	"relation":"beziehung",
+
+	"restaurant":"restaurant",
+
+	"satisfaction":"zufriedenheit",
+
+	"sector":"sektor",
+
+	"signature":"unterschrift",
+
+	"significance":"bedeutung",
+
+	"song":"lied",
+
+	"tooth":"zahn",
+
+	"town":"stadt",
+
+	"vehicle":"fahrzeug",
+
+	"volume":"volumen",
+
+	"wife":"frau",
+
+	"accident":"unfall",
+
+	"airport":"flughafen",
+
+	"appointment":"termin",
+
+	"arrival":"anreise",
+
+	"assumption":"annahme",
+
+	"baseball":"baseball",
+
+	"chapter":"kapitel",
+
+	"committee":"ausschuss",
+
+	"database":"datenbank",
+
+	"enthusiasm":"begeisterung",
+
+	"error":"fehler",
+
+	"farmer":"landwirt",
+
+	"gate":"tor",
+
+	"hall":"halle",
+
+	"historian":"historiker",
+
+	"hospital":"krankenhaus",
+
+	"injury":"verletzungen",
+
+	"instruction":"anleitung",
+
+	"maintenance":"wartung",
+
+	"manufacturer":"hersteller",
+
+	"meal":"mahlzeit",
+
+	"perception":"wahrnehmung",
+
+	"poem":"gedicht",
+
+	"proposal":"vorschlag",
+
+	"reception":"empfang",
+
+	"replacement":"ersatz",
+
+	"revolution":"revolution",
+
+	"river":"fluss",
+
+	"son":"klang",
+
+	"speech":"rede",
+
+	"tea":"tee",
+
+	"village":"dorf",
+
+	"warning":"warnung",
+
+	"winner":"gewinner",
+
+	"worker":"arbeiter",
+
+	"writer":"schriftsteller",
+
+	"assistance":"hilfe",
+
+	"breath":"atem",
+
+	"chest":"brust",
+
+	"chocolate":"schokolade",
+
+	"conclusion":"fazit",
+
+	"contribution":"beitrag",
+
+	"cookie":"cookie",
+
+	"courage":"mut",
+
+	"dad":"papa",
+
+	"desk":"schreibtisch",
+
+	"drawer":"schublade",
+
+	"establishment":"einrichtung",
+
+	"honey":"honig",
+
+	"impression":"eindruck",
+
+	"improvement":"verbesserung",
+
+	"insect":"insekt",
+
+	"inspection":"inspektion",
+
+	"inspector":"inspektor",
+
+	"ladder":"leiter",
+
+	"penalty":"strafe",
+
+	"piano":"stock",
+
+	"potato":"kartoffel",
+
+	"profession":"beruf",
+
+	"professor":"professor",
+
+	"quantity":"menge",
+
+	"reaction":"reaktion",
+
+	"requirement":"voraussetzung",
+
+	"salad":"salat",
+
+	"sister":"schwester",
+
+	"supermarket":"supermarkt",
+
+	"tongue":"zunge",
+
+	"wedding":"hochzeit",
+
+	"ambition":"ehrgeiz",
+
+	"analyst":"analyst",
+
+	"apple":"apple",
+
+	"assignment":"zuordnung",
+
+	"assistant":"assistentin",
+
+	"bathroom":"bad",
+
+	"bedroom":"schlafzimmer",
+
+	"beer":"bier",
+
+	"birthday":"geburtstag",
+
+	"celebration":"feier",
+
+	"championship":"meisterschaft",
+
+	"cheek":"wange",
+
+	"client":"client",
+
+	"consequence":"folge",
+
+	"departure":"abreise",
+
+	"diamond":"diamant",
+
+	"dirt":"schmutz",
+
+	"ear":"ohr",
+
+	"fortune":"fortune",
+
+	"friendship":"freundschaft",
+
+	"funeral":"beerdigung",
+
+	"gene":"gen",
+
+	"girlfriend":"freundin",
+
+	"hat":"hat",
+
+	"indication":"hinweis",
+
+	"intention":"absicht",
+
+	"lady":"lady",
+
+	"midnight":"mitternacht",
+
+	"negotiation":"verhandlung",
+
+	"obligation":"verpflichtung",
+
+	"passenger":"pkw",
+
+	"pizza":"pizza",
+
+	"platform":"plattform",
+
+	"poet":"dichter",
+
+	"pollution":"verschmutzung",
+
+	"recognition":"anerkennung",
+
+	"reputation":"ruf",
+
+	"shirt":"shirt",
+
+	"sir":"sir",
+
+	"speaker":"lautsprecher",
+
+	"stranger":"fremder",
+
+	"surgery":"chirurgie",
+
+	"sympathy":"sympathie",
+
+	"tale":"diese",
+
+	"throat":"kehle",
+
+	"trainer":"trainer",
+
+	"uncle":"onkel",
+
+	"youth":"jugend",
+
+	"time":"zeit",
+
+	"work":"arbeit",
+
+	"film":"film",
+
+	"water":"wasser",
+
+	"money":"geld",
+
+	"example":"beispiel",
+
+	"study":"studie",
+
+	"game":"spiel",
+
+	"life":"leben",
+
+	"form":"form",
+
+	"air":"luft",
+
+	"day":"tag",
+
+	"place":"ort",
+
+	"number":"anzahl",
+
+	"part":"teil",
+
+	"field":"feld",
+
+	"fish":"fisch",
+
+	"process":"prozess",
+
+	"hand":"hand",
+
+	"experience":"erleben sie",
+
+	"job":"job",
+
+	"book":"buch",
+
+	"end":"ende",
+
+	"point":"punkt",
+
+	"type":"typ",
+
+	"home":"nach hause",
+
+	"economy":"wirtschaft",
+
+	"value":"wert",
+
+	"market":"markt",
+
+	"interest":"interesse",
+
+	"state":"zustand",
+
+	"radio":"radio",
+
+	"course":"kurs",
+
+	"company":"unternehmen",
+
+	"price":"preis",
+
+	"card":"karte",
+
+	"list":"liste",
+
+	"mind":"geist",
+
+	"trade":"handel",
+
+	"line":"linie",
+
+	"care":"pflege",
+
+	"group":"gruppe",
+
+	"risk":"risiko",
+
+	"word":"wort",
+
+	"fat":"fett",
+
+	"force":"kraft",
+
+	"light":"licht",
+
+	"training":"ausbildung",
+
+	"name":"name",
+
+	"school":"schule",
+
+	"top":"nach oben",
+
+	"amount":"betrag",
+
+	"level":"ebene",
+
+	"order":"bestellung",
+
+	"practice":"praxis",
+
+	"research":"forschung",
+
+	"sense":"sinn",
+
+	"service":"service",
+
+	"web":"web",
+
+	"boss":"chef",
+
+	"sport":"sport",
+
+	"house":"haus",
+
+	"page":"seite",
+
+	"term":"begriff",
+
+	"test":"test",
+
+	"answer":"antwort",
+
+	"sound":"klang",
+
+	"focus":"fokus",
+
+	"matter":"frage",
+
+	"kind":"art",
+
+	"soil":"boden",
+
+	"board":"board",
+
+	"picture":"bild",
+
+	"access":"zugang",
+
+	"garden":"garten",
+
+	"range":"angebot",
+
+	"rate":"preis",
+
+	"reason":"grund",
+
+	"site":"website",
+
+	"demand":"nachfrage",
+
+	"image":"bild",
+
+	"case":"fall",
+
+	"cause":"ursache",
+
+	"action":"aktion",
+
+	"age":"alter",
+
+	"bad":"schlechte",
+
+	"boat":"boot",
+
+	"record":"datensatz",
+
+	"result":"ergebnis",
+
+	"section":"abschnitt",
+
+	"mouse":"maus",
+
+	"cash":"bargeld",
+
+	"class":"klasse",
+
+	"nothing":"nichts",
+
+	"period":"zeitraum",
+
+	"plan":"plan",
+
+	"store":"speichern",
+
+	"tax":"steuer",
+
+	"side":"seite",
+
+	"subject":"betreff",
+
+	"space":"raum",
+
+	"rule":"regel",
+
+	"stock":"lager",
+
+	"weather":"wetter",
+
+	"chance":"chance",
+
+	"figure":"abbildung",
+
+	"man":"man",
+
+	"model":"modell",
+
+	"source":"quelle",
+
+	"beginning":"anfang",
+
+	"earth":"erde",
+
+	"program":"programm",
+
+	"chicken":"huhn",
+
+	"design":"design",
+
+	"feature":"funktion",
+
+	"head":"kopf",
+
+	"material":"material",
+
+	"purpose":"zweck",
+
+	"question":"frage",
+
+	"rock":"rock",
+
+	"salt":"salz",
+
+	"act":"handeln",
+
+	"birth":"geburt",
+
+	"car":"auto",
+
+	"dog":"hund",
+
+	"object":"objekt",
+
+	"scale":"skala",
+
+	"sun":"sonne",
+
+	"note":"hinweis",
+
+	"profit":"gewinn",
+
+	"rent":"mieten",
+
+	"speed":"geschwindigkeit",
+
+	"style":"stil",
+
+	"war":"war",
+
+	"bank":"bank",
+
+	"craft":"handwerk",
+
+	"inside":"innenseite",
+
+	"standard":"standard",
+
+	"bus":"bus",
+
+	"exchange":"austausch",
+
+	"eye":"auge",
+
+	"fire":"feuer",
+
+	"position":"position",
+
+	"pressure":"druck",
+
+	"stress":"stress",
+
+	"advantage":"vorteil",
+
+	"benefit":"profitieren",
+
+	"box":"box",
+
+	"frame":"frame",
+
+	"issue":"problem",
+
+	"step":"schritt",
+
+	"cycle":"zyklus",
+
+	"face":"gesicht",
+
+	"item":"artikel",
+
+	"metal":"metall",
+
+	"paint":"farbe",
+
+	"room":"zimmer",
+
+	"screen":"bildschirm",
+
+	"structure":"struktur",
+
+	"view":"blick",
+
+	"account":"konto",
+
+	"ball":"kugel",
+
+	"discipline":"disziplin",
+
+	"medium":"medium",
+
+	"share":"freigeben",
+
+	"balance":"gleichgewicht",
+
+	"bit":"bisschen",
+
+	"black":"schwarz",
+
+	"bottom":"unten",
+
+	"choice":"wahl",
+
+	"gift":"geschenk",
+
+	"impact":"auswirkungen",
+
+	"machine":"maschine",
+
+	"shape":"form",
+
+	"tool":"werkzeug",
+
+	"wind":"wind",
+
+	"address":"adresse",
+
+	"average":"durchschnitt",
+
+	"career":"karriere",
+
+	"culture":"kultur",
+
+	"morning":"morgen",
+
+	"pot":"kann",
+
+	"sign":"zeichen",
+
+	"table":"tabelle",
+
+	"task":"aufgabe",
+
+	"condition":"zustand",
+
+	"contact":"kontakt",
+
+	"credit":"kredit",
+
+	"egg":"ei",
+
+	"hope":"hoffnung",
+
+	"ice":"eis",
+
+	"network":"netzwerk",
+
+	"north":"norden",
+
+	"square":"platz",
+
+	"attempt":"versuch",
+
+	"date":"datum",
+
+	"effect":"wirkung",
+
+	"link":"link",
+
+	"post":"bereitstellen",
+
+	"star":"sterne",
+
+	"voice":"stimme",
+
+	"capital":"hauptstadt",
+
+	"challenge":"herausforderung",
+
+	"friend":"freund",
+
+	"self":"selbst",
+
+	"shot":"schuss",
+
+	"couple":"paar",
+
+	"debate":"debatte",
+
+	"exit":"ausfahrt",
+
+	"front":"vorne",
+
+	"function":"funktion",
+
+	"lack":"fehlende",
+
+	"living":"leben",
+
+	"plant":"anlage",
+
+	"plastic":"kunststoff",
+
+	"spot":"vor ort",
+
+	"summer":"sommer",
+
+	"taste":"geschmack",
+
+	"theme":"thema",
+
+	"track":"track",
+
+	"brain":"gehirn",
+
+	"click":"klicken sie auf",
+
+	"desire":"wunsch",
+
+	"gas":"gas",
+
+	"influence":"einfluss",
+
+	"notice":"beachten sie",
+
+	"rain":"regen",
+
+	"wall":"wand",
+
+	"base":"basis",
+
+	"damage":"schaden",
+
+	"distance":"entfernung",
+
+	"pair":"paar",
+
+	"savings":"einsparungen",
+
+	"staff":"personal",
+
+	"sugar":"zucker",
+
+	"target":"ziel",
+
+	"text":"text",
+
+	"animal":"tier",
+
+	"author":"autor",
+
+	"budget":"budget",
+
+	"discount":"rabatt",
+
+	"file":"datei",
+
+	"ground":"boden",
+
+	"lesson":"lektion",
+
+	"minute":"minute",
+
+	"officer":"offizier",
+
+	"phase":"phase",
+
+	"reference":"referenz",
+
+	"register":"registrieren sie sich",
+
+	"sky":"himmel",
+
+	"stick":"stick",
+
+	"title":"titel",
+
+	"trouble":"probleme",
+
+	"campaign":"kampagne",
+
+	"character":"charakter",
+
+	"club":"club",
+
+	"edge":"kante",
+
+	"evidence":"beweise",
+
+	"fan":"ventilator",
+
+	"letter":"brief",
+
+	"lock":"sperre",
+
+	"maximum":"maximale",
+
+	"novel":"roman",
+
+	"option":"option",
+
+	"pack":"pack",
+
+	"park":"park",
+
+	"plenty":"viele",
+
+	"quarter":"quartal",
+
+	"skin":"haut",
+
+	"sort":"art",
+
+	"weight":"gewicht",
+
+	"baby":"baby",
+
+	"background":"hintergrund",
+
+	"carry":"tragen",
+
+	"dish":"gericht",
+
+	"factor":"faktor",
+
+	"fruit":"obst",
+
+	"glass":"glas",
+
+	"joint":"gelenk",
+
+	"master":"meister",
+
+	"muscle":"muskel",
+
+	"red":"rot",
+
+	"traffic":"verkehr",
+
+	"trip":"reise",
+
+	"appeal":"appell",
+
+	"chart":"diagramm",
+
+	"gear":"getriebe",
+
+	"ideal":"ideal",
+
+	"land":"land",
+
+	"log":"log",
+
+	"mother":"mutter",
+
+	"net":"net",
+
+	"party":"partei",
+
+	"principle":"prinzip",
+
+	"relative":"relative",
+
+	"sale":"verkauf",
+
+	"season":"saison",
+
+	"signal":"signal",
+
+	"spirit":"geist",
+
+	"tree":"baum",
+
+	"wave":"welle",
+
+	"bench":"sitzbank",
+
+	"commission":"kommission",
+
+	"copy":"kopie",
+
+	"drop":"tropfen",
+
+	"minimum":"mindestens",
+
+	"path":"pfad",
+
+	"progress":"fortschritte",
+
+	"project":"projekt",
+
+	"sea":"meer",
+
+	"status":"status",
+
+	"stuff":"zeug",
+
+	"ticket":"ticket",
+
+	"tour":"tour",
+
+	"angle":"winkel",
+
+	"blue":"blau",
+
+	"confidence":"vertrauen",
+
+	"daughter":"tochter",
+
+	"degree":"grad",
+
+	"doctor":"arzt",
+
+	"dot":"dot",
+
+	"dream":"traum",
+
+	"duty":"pflicht",
+
+	"essay":"essay",
+
+	"father":"vater",
+
+	"finance":"finanzen",
+
+	"hour":"stunde",
+
+	"juice":"saft",
+
+	"limit":"grenze",
+
+	"milk":"milch",
+
+	"mouth":"mund",
+
+	"peace":"frieden",
+
+	"pipe":"rohr",
+
+	"seat":"sitz",
+
+	"stable":"stall",
+
+	"storm":"sturm",
+
+	"substance":"substanz",
+
+	"team":"team",
+
+	"trick":"trick",
+
+	"afternoon":"am nachmittag",
+
+	"bat":"fledermaus",
+
+	"beach":"strand",
+
+	"blank":"leere",
+
+	"catch":"fangen",
+
+	"chain":"kette",
+
+	"cream":"creme",
+
+	"crew":"crew",
+
+	"detail":"detail",
+
+	"gold":"gold",
+
+	"interview":"interview",
+
+	"kid":"kind",
+
+	"mark":"mark",
+
+	"match":"spiel",
+
+	"mission":"mission",
+
+	"pain":"schmerzen",
+
+	"pleasure":"freude",
+
+	"score":"partitur",
+
+	"screw":"schraube",
+
+	"sex":"sex",
+
+	"shop":"shop",
+
+	"shower":"dusche",
+
+	"suit":"anzug",
+
+	"tone":"ton",
+
+	"window":"fenster",
+
+	"agent":"agent",
+
+	"band":"band",
+
+	"block":"block",
+
+	"bone":"knochen",
+
+	"calendar":"kalender",
+
+	"cap":"nein",
+
+	"coat":"mantel",
+
+	"contest":"wettbewerb",
+
+	"corner":"ecke",
+
+	"court":"gericht",
+
+	"cup":"tasse",
+
+	"district":"bezirk",
+
+	"door":"durch",
+
+	"east":"osten",
+
+	"finger":"finger",
+
+	"garage":"garage",
+
+	"guarantee":"garantie",
+
+	"hole":"loch",
+
+	"hook":"hook",
+
+	"implement":"umsetzung",
+
+	"layer":"schicht",
+
+	"lecture":"lesen",
+
+	"lie":"liegen",
+
+	"manner":"art und weise",
+
+	"meeting":"treffen",
+
+	"nose":"nase",
+
+	"parking":"parkplatz",
+
+	"partner":"partner",
+
+	"profile":"profil",
+
+	"respect":"respekt",
+
+	"rice":"reis",
+
+	"routine":"routine",
+
+	"schedule":"zeitplan",
+
+	"swimming":"schwimmen",
+
+	"telephone":"telefon",
+
+	"tip":"tipp",
+
+	"winter":"winter",
+
+	"airline":"fluggesellschaft",
+
+	"bag":"tasche",
+
+	"battle":"schlacht",
+
+	"bed":"bett",
+
+	"bill":"rechnung",
+
+	"cake":"kuchen",
+
+	"code":"code",
+
+	"curve":"kurve",
+
+	"designer":"designer",
+
+	"dimension":"dimension",
+
+	"dress":"kleid",
+
+	"ease":"leichtigkeit",
+
+	"emergency":"notfall",
+
+	"evening":"'nabend",
+
+	"extension":"erweiterung",
+
+	"farm":"bauernhof",
+
+	"fight":"kampf",
+
+	"grade":"klasse",
+
+	"holiday":"urlaub",
+
+	"horror":"horror",
+
+	"horse":"pferd",
+
+	"host":"host",
+
+	"husband":"mann",
+
+	"loan":"darlehen",
+
+	"mistake":"fehler",
+
+	"mountain":"berg",
+
+	"nail":"nagel",
+
+	"occasion":"gelegenheit",
+
+	"package":"paket",
+
+	"patient":"patienten",
+
+	"pause":"pausieren",
+
+	"phrase":"satz",
+
+	"proof":"nachweis",
+
+	"race":"rennen",
+
+	"relief":"relief",
+
+	"sand":"sand",
+
+	"sentence":"satz",
+
+	"shoulder":"schulter",
+
+	"smoke":"rauch",
+
+	"stomach":"magen",
+
+	"string":"zeichenfolge",
+
+	"tourist":"tourist",
+
+	"towel":"handtuch",
+
+	"vacation":"urlaub",
+
+	"west":"westen",
+
+	"wheel":"rad",
+
+	"wine":"wein",
+
+	"arm":"arm",
+
+	"aside":"zur seite",
+
+	"associate":"associate",
+
+	"bet":"aber",
+
+	"blow":"schlag",
+
+	"border":"grenze",
+
+	"branch":"filiale",
+
+	"breast":"brust",
+
+	"brother":"bruder",
+
+	"buddy":"kumpel",
+
+	"bunch":"haufen",
+
+	"chip":"chip",
+
+	"coach":"trainer",
+
+	"cross":"kreuz",
+
+	"document":"dokuments",
+
+	"draft":"entwurf",
+
+	"dust":"staub",
+
+	"expert":"experten",
+
+	"floor":"stock",
+
+	"god":"gott",
+
+	"golf":"golf",
+
+	"habit":"gewohnheit",
+
+	"iron":"eisen",
+
+	"judge":"richter",
+
+	"knife":"messer",
+
+	"landscape":"landschaft",
+
+	"league":"liga",
+
+	"mail":"e-mail",
+
+	"mess":"durcheinander",
+
+	"native":"native",
+
+	"pattern":"muster",
+
+	"pin":"pin",
+
+	"pool":"pool",
+
+	"pound":"pfund",
+
+	"request":"anfrage",
+
+	"salary":"gehalt",
+
+	"shame":"schade",
+
+	"shelter":"tierheim",
+
+	"shoe":"schuh",
+
+	"silver":"silber",
+
+	"tackle":"tackle",
+
+	"tank":"tank",
+
+	"trust":"vertrauen",
+
+	"bake":"backen",
+
+	"bar":"bar",
+
+	"bell":"glocke",
+
+	"bike":"fahrrad",
+
+	"blame":"die schuld",
+
+	"boy":"junge",
+
+	"brick":"ziegel",
+
+	"chair":"stuhl",
+
+	"closet":"schrank",
+
+	"clue":"hinweis",
+
+	"collar":"kragen",
+
+	"comment":"kommentar",
+
+	"conference":"konferenz",
+
+	"devil":"teufel",
+
+	"fear":"angst",
+
+	"fuel":"brennstoff",
+
+	"glove":"handschuh",
+
+	"jacket":"jacke",
+
+	"lunch":"mittagessen",
+
+	"monitor":"monitor",
+
+	"mortgage":"hypothek",
+
+	"nurse":"krankenschwester",
+
+	"pace":"tempo",
+
+	"panic":"panik",
+
+	"peak":"peak",
+
+	"plane":"flugzeug",
+
+	"reward":"belohnung",
+
+	"row":"zeile",
+
+	"sandwich":"sandwich",
+
+	"shock":"schock",
+
+	"spite":"trotz",
+
+	"spray":"spray",
+
+	"till":"an",
+
+	"weekend":"am wochenende",
+
+	"welcome":"herzlich willkommen",
+
+	"yard":"hof",
+
+	"alarm":"alarm",
+
+	"bend":"biegen",
+
+	"bicycle":"fahrrad",
+
+	"bite":"biss",
+
+	"blind":"blind",
+
+	"bottle":"flasche",
+
+	"cable":"kabel",
+
+	"candle":"kerze",
+
+	"clerk":"schreiber",
+
+	"cloud":"wolke",
+
+	"concert":"konzert",
+
+	"flower":"blume",
+
+	"harm":"schaden",
+
+	"knee":"knie",
+
+	"lawyer":"rechtsanwalt",
+
+	"leather":"leder",
+
+	"load":"laden",
+
+	"mirror":"spiegel",
+
+	"neck":"hals",
+
+	"pension":"pension",
+
+	"plate":"platte",
+
+	"purple":"lila",
+
+	"ruin":"ruine",
+
+	"ship":"schiff",
+
+	"skirt":"rock",
+
+	"slice":"slice",
+
+	"snow":"schnee",
+
+	"specialist":"spezialist",
+
+	"stroke":"schlaganfall",
+
+	"switch":"schalter",
+
+	"trash":"papierkorb",
+
+	"tune":"tune",
+
+	"zone":"zone",
+
+	"anger":"zorn",
+
+	"award":"award",
+
+	"bid":"gebot",
+
+	"bitter":"bitter",
+
+	"boot":"boot",
+
+	"bug":"fehler",
+
+	"camp":"camp",
+
+	"candy":"candy",
+
+	"carpet":"teppich",
+
+	"cat":"katze",
+
+	"champion":"champion",
+
+	"channel":"kanal",
+
+	"clock":"uhr",
+
+	"comfort":"komfort",
+
+	"cow":"kuh",
+
+	"crack":"crack",
+
+	"engineer":"ingenieur",
+
+	"entrance":"eingang",
+
+	"fault":"fehler",
+
+	"grass":"grass",
+
+	"guy":"kerl",
+
+	"highlight":"markieren sie",
+
+	"incident":"vorfall",
+
+	"island":"insel",
+
+	"joke":"witz",
+
+	"jury":"jury",
+
+	"leg":"bein",
+
+	"lip":"lippe",
+
+	"mate":"mate",
+
+	"motor":"motor",
+
+	"nerve":"nerv",
+
+	"passage":"durchgang",
+
+	"pen":"stift",
+
+	"pride":"stolz",
+
+	"priest":"priester",
+
+	"prize":"preis",
+
+	"promise":"versprechen",
+
+	"resident":"wohnsitz",
+
+	"resort":"resort",
+
+	"ring":"ring",
+
+	"roof":"dach",
+
+	"rope":"seil",
+
+	"sail":"segeln",
+
+	"scheme":"schema",
+
+	"script":"skript",
+
+	"sock":"socke",
+
+	"station":"bahnhof",
+
+	"toe":"weit",
+
+	"tower":"turm",
+
+	"truck":"lkw",
+
+	"witness":"zeuge",
+
+	"you":"sie",
+
+	"it":"es",
+
+	"can":"kann",
+
+	"will":"wird",
+
+	"if":"if",
+
+	"one":"eine",
+
+	"many":"viele",
+
+	"most":"die meisten",
+
+	"other":"andere",
+
+	"use":"verwenden sie",
+
+	"make":"machen",
+
+	"good":"gut",
+
+	"look":"blick",
+
+	"help":"hilfe",
+
+	"go":"gehen",
+
+	"being":"wird",
+
+	"few":"paar",
+
+	"still":"nach wie vor",
+
+	"read":"lesen",
+
+	"keep":"halten sie",
+
+	"start":"start",
+
+	"give":"geben",
+
+	"human":"menschlichen",
+
+	"local":"lokale",
+
+	"general":"allgemeine",
+
+	"she":"sie",
+
+	"specific":"spezifische",
+
+	"long":"lange",
+
+	"play":"spielen",
+
+	"high":"hoch",
+
+	"tonight":"heute abend",
+
+	"put":"setzen",
+
+	"common":"gemeinsame",
+
+	"set":"satz",
+
+	"simple":"einfach",
+
+	"past":"vergangenheit",
+
+	"particular":"insbesondere",
+
+	"today":"heute",
+
+	"current":"aktuelle",
+
+	"national":"nationalen",
+
+	"cut":"schnitt",
+
+	"show":"zeigen",
+
+	"try":"versuchen sie es",
+
+	"second":"sekunde",
+
+	"call":"rufen sie",
+
+	"move":"bewegen",
+
+	"pay":"zahlen",
+
+	"let":"lassen sie sich",
+
+	"single":"einzelne",
+
+	"individual":"individuelle",
+
+	"turn":"schalten sie",
+
+	"ask":"fragen sie",
+
+	"buy":"kaufen",
+
+	"guard":"wache",
+
+	"hold":"halten",
+
+	"main":"wichtigsten",
+
+	"offer":"angebot",
+
+	"potential":"potenzial",
+
+	"professional":"professionelle",
+
+	"international":"internationalen",
+
+	"travel":"reisen",
+
+	"cook":"kochen",
+
+	"alternative":"alternative",
+
+	"following":"folgende",
+
+	"special":"spezielle",
+
+	"working":"arbeiten",
+
+	"whole":"gesamten",
+
+	"dance":"tanz",
+
+	"excuse":"entschuldigung",
+
+	"commercial":"kommerzielle",
+
+	"low":"niedrige",
+
+	"purchase":"kaufen",
+
+	"deal":"angebot",
+
+	"worth":"wert",
+
+	"fall":"fallen",
+
+	"necessary":"notwendig",
+
+	"positive":"positive",
+
+	"produce":"produkte",
+
+	"search":"suche",
+
+	"present":"vorhanden",
+
+	"spend":"verbringen",
+
+	"talk":"sprechen",
+
+	"creative":"kreative",
+
+	"tell":"sagen",
+
+	"cost":"kosten",
+
+	"drive":"laufwerk",
+
+	"glad":"froh, dass",
+
+	"remove":"entfernen",
+
+	"run":"laufen",
+
+	"complex":"komplexen",
+
+	"due":"zwei",
+
+	"effective":"effektive",
+
+	"middle":"mitte",
+
+	"reserve":"reservieren",
+
+	"leave":"verlassen",
+
+	"original":"original",
+
+	"reach":"erreichen",
+
+	"rest":"rest",
+
+	"serve":"dienen",
+
+	"watch":"uhr",
+
+	"charge":"kostenlos",
+
+	"active":"aktiv",
+
+	"break":"pause",
+
+	"negative":"negative",
+
+	"safe":"sicher",
+
+	"stay":"aufenthalt",
+
+	"visit":"besuchen sie",
+
+	"visual":"visuelle",
+
+	"affect":"auswirkungen auf",
+
+	"cover":"abdeckung",
+
+	"report":"bericht",
+
+	"rise":"aufstieg",
+
+	"junior":"junior",
+
+	"unique":"einzigartige",
+
+	"anything":"alles andere",
+
+	"classic":"klassiker",
+
+	"lift":"heben sie",
+
+	"mix":"mischen",
+
+	"private":"private",
+
+	"stop":"stop",
+
+	"teach":"lehren",
+
+	"western":"westlichen",
+
+	"concern":"sorge",
+
+	"familiar":"vertraut",
+
+	"fly":"fliegen",
+
+	"official":"offizielle",
+
+	"broad":"breite",
+
+	"comfortable":"komfortable",
+
+	"gain":"zu gewinnen",
+
+	"maybe":"vielleicht",
+
+	"rich":"reiche",
+
+	"save":"speichern",
+
+	"stand":"stand",
+
+	"young":"junge",
+
+	"fail":"fail",
+
+	"heavy":"schwere",
+
+	"hello":"hallo",
+
+	"valuable":"wertvolle",
+
+	"worry":"machen sie sich sorgen",
+
+	"handle":"griff",
+
+	"meet":"treffen",
+
+	"sell":"zu verkaufen",
+
+	"finish":"fertig stellen",
+
+	"normal":"normale",
+
+	"press":"presse",
+
+	"ride":"fahrt",
+
+	"secret":"geheimnis",
+
+	"spread":"verbreitung",
+
+	"tough":"hart",
+
+	"wait":"warten",
+
+	"brown":"braun",
+
+	"deep":"tief",
+
+	"display":"anzeige",
+
+	"flow":"durchfluss",
+
+	"hit":"getroffen",
+
+	"objective":"ziel",
+
+	"touch":"tippen sie auf",
+
+	"cancel":"abbrechen",
+
+	"chemical":"chemische",
+
+	"cry":"schrei",
+
+	"dump":"dump",
+
+	"extreme":"extreme",
+
+	"push":"push",
+
+	"conflict":"konflikt",
+
+	"eat":"essen",
+
+	"formal":"formale",
+
+	"jump":"springen",
+
+	"kick":"lehnen sie sich",
+
+	"opposite":"gegenteil",
+
+	"pass":"pass",
+
+	"remote":"fernbedienung",
+
+	"total":"insgesamt",
+
+	"treat":"behandeln",
+
+	"abuse":"missbrauch",
+
+	"beat":"beat",
+
+	"burn":"brennen",
+
+	"deposit":"kaution",
+
+	"print":"drucken",
+
+	"sleep":"schlaf",
+
+	"somewhere":"irgendwo",
+
+	"advance":"advance",
+
+	"consist":"bestehen",
+
+	"dark":"dunkel",
+
+	"double":"doppelzimmer",
+
+	"draw":"zeichnen",
+
+	"equal":"gleich",
+
+	"fix":"zu beheben",
+
+	"hire":"mieten",
+
+	"internal":"interne",
+
+	"join":"join",
+
+	"sensitive":"sensible",
+
+	"tap":"tippen sie auf",
+
+	"win":"gewinnen",
+
+	"attack":"angriff",
+
+	"claim":"anspruch",
+
+	"constant":"konstante",
+
+	"drag":"ziehen sie",
+
+	"drink":"trinken",
+
+	"guess":"vermutung",
+
+	"minor":"kleinere",
+
+	"pull":"ziehen",
+
+	"raw":"rohe",
+
+	"soft":"weiche",
+
+	"solid":"solide",
+
+	"wear":"tragen",
+
+	"weird":"komisch",
+
+	"wonder":"frage mich",
+
+	"count":"graf",
+
+	"dead":"toten",
+
+	"doubt":"zweifel",
+
+	"feed":"feed",
+
+	"impress":"impress",
+
+	"nobody":"niemand",
+
+	"repeat":"wiederholen sie die",
+
+	"round":"runde",
+
+	"sing":"singen",
+
+	"slide":"folie",
+
+	"strip":"streifen",
+
+	"wish":"wunsch",
+
+	"combine":"kombinieren sie",
+
+	"command":"befehl",
+
+	"dig":"sie",
+
+	"divide":"teilen",
+
+	"hunt":"jagd",
+
+	"smell":"geruch",
+
+	"spiritual":"spirituelle",
+
+	"survey":"umfrage",
+
+	"tie":"krawatte",
+
+	"adult":"erwachsenen",
+
+	"brief":"kurze",
+
+	"escape":"flucht",
+
+	"gather":"sammeln",
+
+	"hate":"hassen",
+
+	"prior":"vorherige",
+
+	"repair":"reparatur",
+
+	"rough":"rau",
+
+	"sad":"traurig",
+
+	"scratch":"neu",
+
+	"sick":"krank",
+
+	"strike":"streik",
+
+	"external":"externe",
+
+	"hurt":"verletzt",
+
+	"illegal":"illegale",
+
+	"laugh":"lachen",
+
+	"lay":"legen",
+
+	"mobile":"mobile",
+
+	"respond":"reagieren",
+
+	"royal":"royal",
+
+	"senior":"senior",
+
+	"split":"split",
+
+	"strain":"stamm",
+
+	"struggle":"kampf",
+
+	"swim":"schwimmen",
+
+	"train":"zug",
+
+	"upper":"obere",
+
+	"wash":"waschen",
+
+	"yellow":"gelb",
+
+	"convert":"konvertieren",
+
+	"crash":"absturz",
+
+	"fold":"falten",
+
+	"funny":"lustig",
+
+	"grab":"schnappen sie sich",
+
+	"hide":"ausblenden",
+
+	"permit":"genehmigung",
+
+	"quote":"zitat",
+
+	"recover":"recover",
+
+	"resolve":"zu beheben",
+
+	"roll":"roll",
+
+	"slip":"slip",
+
+	"spare":"ersatzteile",
+
+	"suspect":"vermute",
+
+	"swing":"schaukel",
+
+	"twist":"twist",
+
+	"upstairs":"im obergeschoss",
+
+	"abroad":"im ausland",
+
+	"brave":"mutige",
+
+	"calm":"ruhe",
+
+	"concentrate":"konzentrat",
+
+	"grand":"grand",
+
+	"mine":"mir",
+
+	"prompt":"eingabeaufforderung",
+
+	"quiet":"ruhig",
+
+	"refuse":"verweigern",
+
+	"regret":"bedauern",
+
+	"reveal":"zeigen",
+
+	"rush":"rush",
+
+	"shift":"verschiebung",
+
+	"shine":"glanz",
+
+	"steal":"stehlen",
+
+	"suck":"saugen",
+
+	"surround":"surround",
+
+	"anybody":"jeder",
+
+	"brilliant":"brillante",
+
+	"dare":"geben",
+
+	"dear":"sehr geehrte",
+
+	"drunk":"betrunken",
+
+	"female":"weiblich",
+
+	"hurry":"beeilen sie sich",
+
+	"inevitable":"unvermeidlich",
+
+	"invite":"laden",
+
+	"kiss":"kuss",
+
+	"neat":"ordentlich",
+
+	"pop":"pop",
+
+	"punch":"punsch",
+
+	"quit":"beenden sie",
+
+	"reply":"antwort",
+
+	"representative":"vertreter",
+
+	"resist":"resist",
+
+	"rip":"rip",
+
+	"rub":"rub",
+
+	"silly":"albern",
+
+	"spell":"zauber",
+
+	"stretch":"dehnen",
+
+	"stupid":"dumme",
+
+	"tomorrow":"morgen",
+
+	"wake":"aufwachen",
+
+	"wrap":"wickeln sie",
+
+	"yesterday":"gestern"
+
+}

@@ -2,8 +2,12 @@
 // @author Jedda Boyle <jeddaboyle@gmail.com>
 // @author Taavi Kivisik <taavi.kivisik@gmail.com>
 
+//translation_file = 'translations/nl.json'
+//translation_file = 'translations/fr.json'
+translation_file = 'translations/de.json'
+
 // Define the functions that are going to be inserted into the page's HTML.
-// The function switches the element between the word and its translation.
+// This function switches the element between the word and its translation.
 var onTranslationClickVar = function onTranslationClick(element, word, translation) {
     if (element.innerHTML == translation) {
         element.innerHTML = word;
@@ -44,7 +48,7 @@ xhr.onreadystatechange = function() {
         words = JSON.parse(this.responseText);
     }
 };
-xhr.open("GET", chrome.extension.getURL('words.json'), false);
+xhr.open("GET", chrome.extension.getURL(translation_file), false);
 xhr.send();
 
 // Insert JavaScript into the webpage's HTML.
@@ -61,29 +65,23 @@ var paragraphs = document.getElementsByTagName("p");
 for (paragraph of paragraphs) {
 	paragraphHTML = paragraph.innerHTML;
 	bracketBalance = 0
-	indexOfPreviousWordBreak = 0
 
 	for (var i = 0; i < paragraphHTML.length; i++){
 		translatedParagraphHTML = null;
 		if (paragraphHTML[i] == '<') {
-			translatedParagraphHTML = insertTranslatedWord(paragraphHTML, indexOfPreviousWordBreak, i);
 			bracketBalance += 1;
 		}
 		else if (paragraphHTML[i] == '>') {
 			bracketBalance -= 1;
-			indexOfPreviousWordBreak = i + 1;
 		}
-		else if (bracketBalance == 0 && paragraphHTML[i].match(/[a-z]/i) == null) {
-				translatedParagraphHTML = insertTranslatedWord(paragraphHTML, indexOfPreviousWordBreak, i);
-				indexOfPreviousWordBreak = i + 1;
-		}
-		if (translatedParagraphHTML != null) {
-			paragraphHTML = translatedParagraphHTML;
-			step = paragraphHTML.indexOf('/', i);
-            if (step != -1) {
-                i = step
+        else if (i > 0 && bracketBalance == 0 && paragraphHTML[i - 1].match(/\s/) != null) {
+            translatedParagraphHTML = insertTranslatedWord(paragraphHTML, i, paragraphHTML.indexOf(' ', i));
+            if (translatedParagraphHTML != null) {
+    			paragraphHTML = translatedParagraphHTML;
+                i = paragraphHTML.indexOf('/', i);
+                bracketBalance = 1;
             }
-		}
+        }
 	}
 	paragraph.innerHTML = paragraphHTML;
 };

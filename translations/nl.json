@@ -1,0 +1,3024 @@
+{
+	"people":"mensen",
+
+	"history":"geschiedenis",
+
+	"way":"manier",
+
+	"art":"kunst",
+
+	"world":"wereld",
+
+	"information":"informatie",
+
+	"map":"kaart",
+
+	"two":"twee",
+
+	"family":"familie",
+
+	"government":"regering",
+
+	"health":"gezondheid",
+
+	"system":"systeem",
+
+	"computer":"computer",
+
+	"meat":"vlees",
+
+	"year":"jaar",
+
+	"thanks":"bedankt",
+
+	"music":"muziek",
+
+	"person":"persoon",
+
+	"reading":"lezing",
+
+	"method":"methode",
+
+	"data":"gegevens",
+
+	"food":"voedsel",
+
+	"understanding":"begrip",
+
+	"theory":"theorie",
+
+	"law":"wet",
+
+	"bird":"vogel",
+
+	"literature":"literatuur",
+
+	"problem":"probleem",
+
+	"software":"software",
+
+	"control":"controle",
+
+	"knowledge":"kennis",
+
+	"power":"macht",
+
+	"ability":"vermogen",
+
+	"economics":"economie",
+
+	"love":"liefde",
+
+	"internet":"internet",
+
+	"television":"televisie",
+
+	"science":"wetenschap",
+
+	"library":"bibliotheek",
+
+	"nature":"natuur",
+
+	"fact":"feit",
+
+	"product":"product",
+
+	"idea":"idee",
+
+	"temperature":"temperatuur",
+
+	"investment":"investeringen",
+
+	"area":"gebied",
+
+	"society":"samenleving",
+
+	"activity":"activiteit",
+
+	"story":"verhaal",
+
+	"industry":"industrie",
+
+	"media":"media",
+
+	"thing":"ding",
+
+	"oven":"oven",
+
+	"community":"gemeenschap",
+
+	"definition":"definitie",
+
+	"safety":"veiligheid",
+
+	"quality":"kwaliteit",
+
+	"development":"ontwikkeling",
+
+	"language":"taal",
+
+	"management":"beheer",
+
+	"player":"speler",
+
+	"variety":"verscheidenheid",
+
+	"video":"video",
+
+	"week":"week",
+
+	"security":"veiligheid",
+
+	"country":"land",
+
+	"exam":"examen",
+
+	"movie":"film",
+
+	"organization":"organisatie",
+
+	"equipment":"apparatuur",
+
+	"physics":"natuurkunde",
+
+	"analysis":"analyse",
+
+	"policy":"beleid",
+
+	"series":"serie",
+
+	"thought":"dacht dat",
+
+	"basis":"basis",
+
+	"boyfriend":"vriendje",
+
+	"direction":"richting",
+
+	"strategy":"strategie",
+
+	"technology":"technologie",
+
+	"army":"leger",
+
+	"camera":"camera",
+
+	"freedom":"vrijheid",
+
+	"paper":"papier",
+
+	"environment":"milieu",
+
+	"child":"kind",
+
+	"instance":"aanleg",
+
+	"month":"maand",
+
+	"truth":"waarheid",
+
+	"marketing":"marketing",
+
+	"university":"universiteit",
+
+	"writing":"schrijven",
+
+	"article":"artikel",
+
+	"department":"departement",
+
+	"difference":"verschil",
+
+	"goal":"doel",
+
+	"news":"nieuws",
+
+	"audience":"publiek",
+
+	"fishing":"visserij",
+
+	"growth":"groei",
+
+	"income":"inkomen",
+
+	"marriage":"huwelijk",
+
+	"user":"gebruiker",
+
+	"combination":"combinatie",
+
+	"failure":"storing",
+
+	"meaning":"betekenis",
+
+	"medicine":"geneeskunde",
+
+	"philosophy":"filosofie",
+
+	"teacher":"leraar",
+
+	"communication":"communicatie",
+
+	"night":"nacht",
+
+	"chemistry":"chemie",
+
+	"disease":"ziekte",
+
+	"disk":"schijf",
+
+	"energy":"energie",
+
+	"nation":"natie",
+
+	"road":"weg",
+
+	"role":"rol",
+
+	"soup":"soep",
+
+	"advertising":"reclame",
+
+	"location":"locatie",
+
+	"success":"succes",
+
+	"addition":"toevoeging",
+
+	"apartment":"appartement",
+
+	"education":"onderwijs",
+
+	"math":"wiskunde",
+
+	"moment":"moment",
+
+	"painting":"schilderij",
+
+	"politics":"politiek",
+
+	"attention":"aandacht",
+
+	"decision":"besluit",
+
+	"event":"evenement",
+
+	"property":"eigenschap",
+
+	"shopping":"winkelen",
+
+	"student":"student",
+
+	"wood":"hout",
+
+	"competition":"competitie",
+
+	"distribution":"distributie",
+
+	"entertainment":"entertainment",
+
+	"office":"office",
+
+	"population":"bevolking",
+
+	"president":"de voorzitter",
+
+	"unit":"eenheid",
+
+	"category":"categorie",
+
+	"cigarette":"sigaret",
+
+	"context":"context",
+
+	"introduction":"introductie",
+
+	"opportunity":"kans",
+
+	"performance":"prestaties",
+
+	"driver":"stuurprogramma",
+
+	"flight":"vlucht",
+
+	"length":"lengte",
+
+	"magazine":"magazine",
+
+	"newspaper":"krant",
+
+	"relationship":"relatie",
+
+	"teaching":"onderwijs",
+
+	"cell":"cel",
+
+	"dealer":"dealer",
+
+	"finding":"zoeken",
+
+	"lake":"lake",
+
+	"member":"lid",
+
+	"message":"bericht",
+
+	"phone":"telefoon",
+
+	"appearance":"uiterlijk",
+
+	"association":"vereniging",
+
+	"concept":"concept",
+
+	"customer":"klant",
+
+	"death":"dood",
+
+	"discussion":"discussie",
+
+	"housing":"huisvesting",
+
+	"inflation":"inflatie",
+
+	"insurance":"verzekering",
+
+	"mood":"stemming",
+
+	"woman":"vrouw",
+
+	"advice":"advies",
+
+	"blood":"bloed",
+
+	"effort":"inspanning",
+
+	"expression":"expressie",
+
+	"importance":"belang",
+
+	"opinion":"advies",
+
+	"payment":"betaling",
+
+	"reality":"werkelijkheid",
+
+	"responsibility":"verantwoordelijkheid",
+
+	"situation":"situatie",
+
+	"skill":"vaardigheid",
+
+	"statement":"verklaring",
+
+	"wealth":"rijkdom",
+
+	"application":"toepassing",
+
+	"city":"stad",
+
+	"county":"county",
+
+	"depth":"diepte",
+
+	"estate":"landgoed",
+
+	"foundation":"stichting",
+
+	"grandmother":"grootmoeder",
+
+	"heart":"hart",
+
+	"perspective":"perspectief",
+
+	"photo":"foto",
+
+	"recipe":"recept",
+
+	"studio":"studio",
+
+	"topic":"onderwerp",
+
+	"collection":"collectie",
+
+	"depression":"depressie",
+
+	"imagination":"verbeelding",
+
+	"passion":"passie",
+
+	"percentage":"percentage",
+
+	"resource":"resource",
+
+	"setting":"instelling",
+
+	"ad":"dergelijke",
+
+	"agency":"agentschap",
+
+	"college":"college",
+
+	"connection":"verbinding",
+
+	"criticism":"kritiek",
+
+	"debt":"schuld",
+
+	"description":"beschrijving",
+
+	"memory":"geheugen",
+
+	"patience":"geduld",
+
+	"secretary":"secretaris",
+
+	"solution":"oplossing",
+
+	"administration":"administratie",
+
+	"aspect":"aspect",
+
+	"attitude":"houding",
+
+	"director":"directeur",
+
+	"personality":"persoonlijkheid",
+
+	"psychology":"psychologie",
+
+	"recommendation":"aanbeveling",
+
+	"response":"reactie",
+
+	"selection":"selectie",
+
+	"storage":"opslag",
+
+	"version":"versie",
+
+	"alcohol":"alcohol",
+
+	"argument":"argument",
+
+	"complaint":"klacht",
+
+	"contract":"contract",
+
+	"emphasis":"nadruk",
+
+	"highway":"snelweg",
+
+	"loss":"verlies",
+
+	"membership":"lidmaatschap",
+
+	"possession":"bezit",
+
+	"preparation":"voorbereiding",
+
+	"steak":"biefstuk",
+
+	"union":"unie",
+
+	"agreement":"overeenkomst",
+
+	"cancer":"kanker",
+
+	"currency":"valuta",
+
+	"employment":"werkgelegenheid",
+
+	"engineering":"engineering",
+
+	"entry":"ingang",
+
+	"interaction":"interactie",
+
+	"mixture":"mengsel",
+
+	"preference":"voorkeur",
+
+	"region":"regio",
+
+	"republic":"republiek",
+
+	"tradition":"traditie",
+
+	"virus":"virus",
+
+	"actor":"acteur",
+
+	"classroom":"klaslokaal",
+
+	"delivery":"levering",
+
+	"device":"apparaat",
+
+	"difficulty":"moeilijkheidsgraad",
+
+	"drama":"drama",
+
+	"election":"verkiezing",
+
+	"engine":"motor",
+
+	"football":"voetbal",
+
+	"guidance":"begeleiding",
+
+	"hotel":"hotel",
+
+	"owner":"eigenaar",
+
+	"priority":"prioriteit",
+
+	"protection":"bescherming",
+
+	"suggestion":"suggestie",
+
+	"tension":"spanning",
+
+	"variation":"variatie",
+
+	"anxiety":"angst",
+
+	"atmosphere":"sfeer",
+
+	"awareness":"bewustzijn",
+
+	"bath":"bad",
+
+	"bread":"brood",
+
+	"candidate":"kandidaat-lidstaten",
+
+	"climate":"klimaat",
+
+	"comparison":"vergelijking",
+
+	"confusion":"verwarring",
+
+	"construction":"bouw",
+
+	"elevator":"lift",
+
+	"emotion":"emotie",
+
+	"employee":"werknemer",
+
+	"employer":"werkgever",
+
+	"guest":"beoordelingen",
+
+	"height":"hoogte",
+
+	"leadership":"leiderschap",
+
+	"mall":"winkelcentrum",
+
+	"manager":"manager",
+
+	"operation":"operatie",
+
+	"recording":"opname",
+
+	"sample":"monster",
+
+	"transportation":"vervoer",
+
+	"charity":"liefdadigheid",
+
+	"cousin":"neef",
+
+	"disaster":"ramp",
+
+	"editor":"redacteur",
+
+	"excitement":"opwinding",
+
+	"extent":"mate",
+
+	"feedback":"feedback",
+
+	"guitar":"gitaar",
+
+	"homework":"huiswerk",
+
+	"leader":"leider",
+
+	"mom":"moeder",
+
+	"outcome":"resultaat",
+
+	"permission":"machtiging",
+
+	"presentation":"presentatie",
+
+	"promotion":"promotie",
+
+	"reflection":"reflectie",
+
+	"refrigerator":"koelkast",
+
+	"resolution":"resolutie",
+
+	"revenue":"ontvangsten",
+
+	"session":"sessie",
+
+	"singer":"zanger",
+
+	"tennis":"tennis",
+
+	"basket":"mand",
+
+	"bonus":"bonus",
+
+	"cabinet":"kabinet",
+
+	"childhood":"jeugd",
+
+	"church":"kerk",
+
+	"clothes":"kleding",
+
+	"coffee":"koffie",
+
+	"dinner":"diner",
+
+	"drawing":"tekening",
+
+	"hair":"haar",
+
+	"hearing":"hoorzitting",
+
+	"initiative":"initiatief",
+
+	"judgment":"arrest",
+
+	"lab":"lab",
+
+	"measurement":"meting",
+
+	"mode":"modus",
+
+	"mud":"modder",
+
+	"orange":"oranje",
+
+	"police":"politie",
+
+	"possibility":"mogelijkheid",
+
+	"procedure":"procedure",
+
+	"queen":"koningin",
+
+	"ratio":"verhouding",
+
+	"relation":"relatie",
+
+	"restaurant":"restaurant",
+
+	"satisfaction":"tevredenheid",
+
+	"sector":"sector",
+
+	"signature":"handtekening",
+
+	"significance":"betekenis",
+
+	"song":"lied",
+
+	"tooth":"tand",
+
+	"town":"stad",
+
+	"vehicle":"voertuig",
+
+	"volume":"volume",
+
+	"wife":"vrouw",
+
+	"accident":"ongeval",
+
+	"airport":"luchthaven",
+
+	"appointment":"afspraak",
+
+	"arrival":"aankomst",
+
+	"assumption":"veronderstelling",
+
+	"baseball":"honkbal",
+
+	"chapter":"hoofdstuk",
+
+	"conversation":"gesprek",
+
+	"database":"database",
+
+	"enthusiasm":"enthousiasme",
+
+	"error":"fout",
+
+	"explanation":"uitleg",
+
+	"farmer":"boer",
+
+	"gate":"gate",
+
+	"girl":"meisje",
+
+	"hall":"hall",
+
+	"historian":"historicus",
+
+	"hospital":"ziekenhuis",
+
+	"injury":"letsel",
+
+	"instruction":"instructie",
+
+	"maintenance":"onderhoud",
+
+	"manufacturer":"fabrikant",
+
+	"meal":"maaltijd",
+
+	"perception":"perceptie",
+
+	"pie":"voet",
+
+	"poem":"gedicht",
+
+	"presence":"aanwezigheid",
+
+	"proposal":"voorstel",
+
+	"reception":"receptie",
+
+	"replacement":"vervanging",
+
+	"revolution":"revolutie",
+
+	"river":"rivier",
+
+	"son":"geluid",
+
+	"speech":"toespraak",
+
+	"tea":"thee",
+
+	"village":"dorp",
+
+	"warning":"waarschuwing",
+
+	"winner":"winnaar",
+
+	"worker":"werknemer",
+
+	"writer":"schrijver",
+
+	"assistance":"bijstand",
+
+	"breath":"adem",
+
+	"buyer":"koper",
+
+	"chest":"borst",
+
+	"chocolate":"chocolade",
+
+	"conclusion":"conclusie",
+
+	"contribution":"bijdrage",
+
+	"cookie":"cookie",
+
+	"courage":"moed",
+
+	"dad":"papa",
+
+	"desk":"bureau",
+
+	"drawer":"lade",
+
+	"establishment":"vestiging",
+
+	"examination":"onderzoek",
+
+	"garbage":"vuilnis",
+
+	"grocery":"kruidenier",
+
+	"honey":"honing",
+
+	"impression":"indruk",
+
+	"improvement":"verbetering",
+
+	"independence":"onafhankelijkheid",
+
+	"insect":"insect",
+
+	"inspection":"inspectie",
+
+	"inspector":"inspecteur",
+
+	"king":"koning",
+
+	"ladder":"ladder",
+
+	"menu":"menu",
+
+	"penalty":"straf",
+
+	"piano":"vloer",
+
+	"potato":"aardappel",
+
+	"profession":"beroep",
+
+	"professor":"professor",
+
+	"quantity":"hoeveelheid",
+
+	"reaction":"reactie",
+
+	"requirement":"eis",
+
+	"salad":"salade",
+
+	"sister":"zuster",
+
+	"supermarket":"supermarkt",
+
+	"tongue":"tong",
+
+	"weakness":"zwakte",
+
+	"wedding":"bruiloft",
+
+	"affair":"affaire",
+
+	"ambition":"ambitie",
+
+	"analyst":"analist",
+
+	"apple":"apple",
+
+	"assignment":"toewijzing",
+
+	"assistant":"assistent",
+
+	"bathroom":"badkamer",
+
+	"bedroom":"slaapkamer",
+
+	"beer":"bier",
+
+	"birthday":"verjaardag",
+
+	"celebration":"viering",
+
+	"championship":"kampioenschap",
+
+	"cheek":"wang",
+
+	"client":"client",
+
+	"consequence":"gevolg",
+
+	"departure":"vertrek",
+
+	"diamond":"diamant",
+
+	"dirt":"vuil",
+
+	"ear":"oor",
+
+	"fortune":"fortuin",
+
+	"friendship":"vriendschap",
+
+	"funeral":"begrafenis",
+
+	"gene":"gen",
+
+	"girlfriend":"vriendin",
+
+	"hat":"heeft",
+
+	"indication":"indicatie",
+
+	"intention":"voornemen",
+
+	"lady":"dame",
+
+	"midnight":"middernacht",
+
+	"negotiation":"onderhandeling",
+
+	"obligation":"verplichting",
+
+	"passenger":"passagier",
+
+	"pizza":"pizza",
+
+	"platform":"platform",
+
+	"poet":"dichter",
+
+	"pollution":"vervuiling",
+
+	"recognition":"erkenning",
+
+	"reputation":"reputatie",
+
+	"shirt":"shirt",
+
+	"sir":"sir",
+
+	"speaker":"luidspreker",
+
+	"stranger":"vreemdeling",
+
+	"surgery":"chirurgie",
+
+	"sympathy":"sympathie",
+
+	"tale":"dergelijke",
+
+	"throat":"keel",
+
+	"trainer":"coach",
+
+	"uncle":"oom",
+
+	"youth":"jeugd",
+
+	"time":"tijd",
+
+	"work":"werk",
+
+	"film":"film",
+
+	"water":"water",
+
+	"money":"geld",
+
+	"example":"voorbeeld",
+
+	"while":"terwijl",
+
+	"business":"business",
+
+	"study":"studie",
+
+	"game":"spel",
+
+	"life":"leven",
+
+	"form":"formulier",
+
+	"air":"lucht",
+
+	"day":"dag",
+
+	"place":"plaats",
+
+	"number":"nummer",
+
+	"part":"deel",
+
+	"field":"veld",
+
+	"fish":"vis",
+
+	"back":"terug",
+
+	"process":"proces",
+
+	"heat":"warmte",
+
+	"hand":"hand",
+
+	"experience":"ervaring",
+
+	"job":"baan",
+
+	"book":"boek",
+
+	"end":"einde",
+
+	"point":"punt",
+
+	"type":"type",
+
+	"home":"home",
+
+	"economy":"economie",
+
+	"value":"waarde",
+
+	"body":"lichaam",
+
+	"market":"markt",
+
+	"guide":"gids",
+
+	"interest":"belang",
+
+	"state":"staat",
+
+	"radio":"radio",
+
+	"course":"cursus",
+
+	"company":"bedrijf",
+
+	"price":"prijs",
+
+	"size":"grootte",
+
+	"card":"kaart",
+
+	"list":"lijst",
+
+	"mind":"geest",
+
+	"trade":"handel",
+
+	"line":"lijn",
+
+	"care":"zorg",
+
+	"group":"groep",
+
+	"risk":"risico",
+
+	"word":"woord",
+
+	"fat":"vet",
+
+	"force":"kracht",
+
+	"key":"sleutel",
+
+	"light":"licht",
+
+	"training":"opleiding",
+
+	"name":"naam",
+
+	"school":"school",
+
+	"top":"boven",
+
+	"amount":"bedrag",
+
+	"level":"niveau",
+
+	"order":"bestelling",
+
+	"practice":"praktijk",
+
+	"research":"onderzoek",
+
+	"sense":"zin",
+
+	"service":"service",
+
+	"piece":"stuk",
+
+	"web":"web",
+
+	"boss":"baas",
+
+	"sport":"sport",
+
+	"fun":"leuk",
+
+	"house":"huis",
+
+	"page":"pagina",
+
+	"term":"termijn",
+
+	"test":"test",
+
+	"answer":"antwoord",
+
+	"sound":"geluid",
+
+	"focus":"focus",
+
+	"matter":"zaak",
+
+	"kind":"soort",
+
+	"soil":"bodem",
+
+	"board":"raad van bestuur",
+
+	"oil":"olie",
+
+	"picture":"foto",
+
+	"access":"toegang",
+
+	"garden":"tuin",
+
+	"range":"bereik",
+
+	"rate":"tarief",
+
+	"reason":"reden",
+
+	"future":"toekomstige",
+
+	"site":"site",
+
+	"demand":"vraag",
+
+	"exercise":"oefening",
+
+	"image":"afbeelding",
+
+	"case":"geval",
+
+	"cause":"oorzaak",
+
+	"coast":"kust",
+
+	"action":"actie",
+
+	"age":"leeftijd",
+
+	"bad":"slechte",
+
+	"boat":"boot",
+
+	"record":"record",
+
+	"result":"resultaat",
+
+	"section":"sectie",
+
+	"building":"gebouw",
+
+	"mouse":"muis",
+
+	"cash":"contant geld",
+
+	"class":"klasse",
+
+	"nothing":"niets",
+
+	"period":"periode",
+
+	"plan":"plan",
+
+	"store":"winkel",
+
+	"tax":"belasting",
+
+	"side":"kant",
+
+	"subject":"onderwerp",
+
+	"space":"ruimte",
+
+	"rule":"regel",
+
+	"stock":"voorraad",
+
+	"weather":"weer",
+
+	"chance":"kans",
+
+	"figure":"figuur",
+
+	"man":"een",
+
+	"model":"model",
+
+	"source":"bron",
+
+	"beginning":"begin",
+
+	"earth":"aarde",
+
+	"program":"programma",
+
+	"chicken":"kip",
+
+	"design":"ontwerp",
+
+	"feature":"functie",
+
+	"head":"hoofd",
+
+	"material":"materiaal",
+
+	"purpose":"doel",
+
+	"question":"vraag",
+
+	"rock":"rock",
+
+	"salt":"zout",
+
+	"act":"handelen",
+
+	"birth":"geboorte",
+
+	"car":"auto",
+
+	"dog":"hond",
+
+	"object":"object",
+
+	"scale":"schaal",
+
+	"sun":"zon",
+
+	"note":"opmerking",
+
+	"profit":"winst",
+
+	"rent":"te huur",
+
+	"speed":"snelheid",
+
+	"style":"stijl",
+
+	"war":"was",
+
+	"bank":"bank",
+
+	"craft":"ambachtelijke",
+
+	"half":"de helft",
+
+	"inside":"binnenkant",
+
+	"outside":"buiten",
+
+	"standard":"standaard",
+
+	"bus":"bus",
+
+	"exchange":"uitwisseling",
+
+	"eye":"oog",
+
+	"fire":"brand",
+
+	"position":"positie",
+
+	"pressure":"druk",
+
+	"stress":"stress",
+
+	"advantage":"voordeel",
+
+	"benefit":"voordeel",
+
+	"box":"vak",
+
+	"frame":"frame",
+
+	"issue":"probleem",
+
+	"step":"stap",
+
+	"cycle":"cyclus",
+
+	"face":"gezicht",
+
+	"item":"item",
+
+	"metal":"metaal",
+
+	"paint":"verf",
+
+	"review":"beoordeling",
+
+	"room":"kamer",
+
+	"screen":"scherm",
+
+	"structure":"structuur",
+
+	"view":"weergave",
+
+	"account":"rekening",
+
+	"ball":"bal",
+
+	"discipline":"discipline",
+
+	"medium":"medium",
+
+	"share":"delen",
+
+	"balance":"saldo",
+
+	"bit":"bits",
+
+	"black":"zwart",
+
+	"bottom":"onderkant",
+
+	"choice":"keuze",
+
+	"gift":"cadeau",
+
+	"impact":"effect",
+
+	"machine":"machine",
+
+	"shape":"vorm",
+
+	"tool":"gereedschap",
+
+	"wind":"wind",
+
+	"address":"adres",
+
+	"average":"gemiddelde",
+
+	"culture":"cultuur",
+
+	"morning":"ochtend",
+
+	"pot":"kan",
+
+	"sign":"teken",
+
+	"table":"tabel",
+
+	"task":"taak",
+
+	"condition":"voorwaarde",
+
+	"contact":"neem contact op met",
+
+	"credit":"krediet",
+
+	"egg":"ei",
+
+	"hope":"hoop",
+
+	"ice":"ijs",
+
+	"network":"netwerk",
+
+	"north":"noord",
+
+	"square":"plein",
+
+	"attempt":"poging",
+
+	"date":"datum",
+
+	"effect":"effect",
+
+	"link":"koppeling",
+
+	"post":"verzenden",
+
+	"star":"ster",
+
+	"voice":"stem",
+
+	"capital":"kapitaal",
+
+	"challenge":"uitdaging",
+
+	"friend":"vriend",
+
+	"self":"zelf",
+
+	"shot":"schot",
+
+	"brush":"borstel",
+
+	"couple":"paar",
+
+	"debate":"debat",
+
+	"exit":"uitgang",
+
+	"front":"voorzijde",
+
+	"function":"functie",
+
+	"lack":"ontbreken",
+
+	"living":"wonen",
+
+	"plant":"plant",
+
+	"plastic":"kunststof",
+
+	"spot":"ter plaatse",
+
+	"summer":"zomer",
+
+	"taste":"smaak",
+
+	"theme":"thema",
+
+	"track":"bijhouden",
+
+	"wing":"vleugel",
+
+	"brain":"hersenen",
+
+	"button":"knop",
+
+	"click":"klik op",
+
+	"desire":"wens",
+
+	"foot":"voet",
+
+	"gas":"gas",
+
+	"influence":"invloed",
+
+	"notice":"merken",
+
+	"rain":"regen",
+
+	"wall":"muur",
+
+	"base":"base",
+
+	"damage":"schade",
+
+	"distance":"afstand",
+
+	"feeling":"gevoel",
+
+	"pair":"paar",
+
+	"savings":"besparingen",
+
+	"staff":"personeel",
+
+	"sugar":"suiker",
+
+	"target":"doel",
+
+	"text":"tekst",
+
+	"animal":"dier",
+
+	"author":"auteur",
+
+	"budget":"begroting",
+
+	"discount":"korting",
+
+	"file":"bestand",
+
+	"ground":"grond",
+
+	"lesson":"les",
+
+	"minute":"minuut",
+
+	"officer":"officier",
+
+	"phase":"fase",
+
+	"reference":"referentie",
+
+	"register":"registreren",
+
+	"sky":"hemel",
+
+	"stage":"stadium",
+
+	"stick":"stok",
+
+	"title":"titel",
+
+	"trouble":"problemen",
+
+	"bowl":"kom",
+
+	"bridge":"brug",
+
+	"campaign":"campagne",
+
+	"character":"teken",
+
+	"club":"club",
+
+	"edge":"rand",
+
+	"evidence":"bewijs",
+
+	"fan":"ventilator",
+
+	"letter":"brief",
+
+	"lock":"vergrendelen",
+
+	"maximum":"maximale",
+
+	"novel":"roman",
+
+	"option":"optie",
+
+	"pack":"pack",
+
+	"park":"park",
+
+	"plenty":"veel",
+
+	"quarter":"kwartaal",
+
+	"skin":"huid",
+
+	"sort":"sorteren",
+
+	"weight":"gewicht",
+
+	"baby":"baby",
+
+	"background":"achtergrond",
+
+	"carry":"carry",
+
+	"dish":"schotel",
+
+	"factor":"factor",
+
+	"fruit":"fruit",
+
+	"glass":"glas",
+
+	"joint":"gezamenlijke",
+
+	"master":"meester",
+
+	"muscle":"spier",
+
+	"red":"rood",
+
+	"strength":"sterkte",
+
+	"traffic":"verkeer",
+
+	"trip":"reis",
+
+	"vegetable":"plantaardige",
+
+	"appeal":"beroep",
+
+	"chart":"grafiek",
+
+	"gear":"versnelling",
+
+	"ideal":"ideale",
+
+	"kitchen":"keuken",
+
+	"land":"land",
+
+	"log":"logboek",
+
+	"mother":"moeder",
+
+	"net":"netto",
+
+	"party":"partij",
+
+	"principle":"principe",
+
+	"relative":"relatieve",
+
+	"sale":"verkoop",
+
+	"season":"seizoen",
+
+	"signal":"signaal",
+
+	"spirit":"geest",
+
+	"street":"straat",
+
+	"tree":"boom",
+
+	"wave":"golf",
+
+	"belt":"riem",
+
+	"bench":"bank",
+
+	"commission":"commissie",
+
+	"copy":"kopie",
+
+	"drop":"drop",
+
+	"minimum":"minimum",
+
+	"path":"pad",
+
+	"progress":"vooruitgang",
+
+	"project":"project",
+
+	"sea":"zee",
+
+	"south":"zuid",
+
+	"status":"status",
+
+	"stuff":"spullen",
+
+	"ticket":"ticket",
+
+	"tour":"tour",
+
+	"angle":"hoek",
+
+	"blue":"blauw",
+
+	"breakfast":"ontbijt",
+
+	"confidence":"vertrouwen",
+
+	"daughter":"dochter",
+
+	"degree":"graad",
+
+	"doctor":"arts",
+
+	"dot":"stip",
+
+	"dream":"droom",
+
+	"duty":"plicht",
+
+	"essay":"essay",
+
+	"father":"vader",
+
+	"fee":"vergoeding",
+
+	"hour":"uur",
+
+	"juice":"sap",
+
+	"limit":"limiet",
+
+	"luck":"geluk",
+
+	"milk":"melk",
+
+	"mouth":"mond",
+
+	"peace":"vrede",
+
+	"pipe":"pijp",
+
+	"seat":"stoel",
+
+	"stable":"testing",
+
+	"storm":"storm",
+
+	"substance":"stof",
+
+	"team":"team",
+
+	"trick":"truc",
+
+	"afternoon":"middag",
+
+	"bat":"vleermuis",
+
+	"beach":"strand",
+
+	"blank":"leeg",
+
+	"catch":"vangst",
+
+	"chain":"ketting",
+
+	"consideration":"overweging",
+
+	"crew":"bemanning",
+
+	"detail":"detail",
+
+	"gold":"goud",
+
+	"interview":"interview",
+
+	"kid":"kid",
+
+	"mark":"mark",
+
+	"match":"overeenkomen met",
+
+	"mission":"missie",
+
+	"pain":"pijn",
+
+	"pleasure":"plezier",
+
+	"score":"score",
+
+	"screw":"schroef",
+
+	"sex":"geslacht",
+
+	"shop":"winkel",
+
+	"shower":"douche",
+
+	"suit":"pak",
+
+	"tone":"toon",
+
+	"window":"venster",
+
+	"agent":"agent",
+
+	"band":"band",
+
+	"block":"blok",
+
+	"bone":"bot",
+
+	"calendar":"kalender",
+
+	"cap":"no",
+
+	"coat":"jas",
+
+	"contest":"wedstrijd",
+
+	"corner":"hoek",
+
+	"court":"hof",
+
+	"cup":"beker",
+
+	"district":"district",
+
+	"door":"door",
+
+	"east":"oosten",
+
+	"finger":"vinger",
+
+	"garage":"garage",
+
+	"guarantee":"garantie",
+
+	"hole":"gat",
+
+	"hook":"haak",
+
+	"implement":"implementeren",
+
+	"layer":"laag",
+
+	"lecture":"lezing",
+
+	"lie":"leugen",
+
+	"manner":"wijze",
+
+	"meeting":"vergadering",
+
+	"nose":"neus",
+
+	"parking":"parkeren",
+
+	"partner":"partner",
+
+	"profile":"profiel",
+
+	"respect":"respect",
+
+	"rice":"rijst",
+
+	"routine":"routine",
+
+	"schedule":"schema",
+
+	"swimming":"zwemmen",
+
+	"telephone":"telefoon",
+
+	"tip":"tip",
+
+	"winter":"winter",
+
+	"airline":"luchtvaartmaatschappij",
+
+	"bag":"tas",
+
+	"battle":"slag bij",
+
+	"bed":"bed",
+
+	"bill":"bill",
+
+	"bother":"de moeite",
+
+	"cake":"taart",
+
+	"code":"code",
+
+	"curve":"kromme",
+
+	"designer":"ontwerper",
+
+	"dimension":"dimensie",
+
+	"dress":"jurk",
+
+	"ease":"gemak",
+
+	"emergency":"noodgevallen",
+
+	"evening":"avond",
+
+	"extension":"uitbreiding",
+
+	"farm":"boerderij",
+
+	"fight":"strijd",
+
+	"gap":"kloof",
+
+	"grade":"rang",
+
+	"holiday":"vakantie",
+
+	"horror":"horror",
+
+	"horse":"paard",
+
+	"host":"host",
+
+	"husband":"man",
+
+	"loan":"lening",
+
+	"mistake":"fout",
+
+	"mountain":"berg",
+
+	"nail":"nagel",
+
+	"noise":"ruis",
+
+	"occasion":"kans",
+
+	"package":"pakket",
+
+	"pause":"pauze",
+
+	"phrase":"zin",
+
+	"proof":"bewijs",
+
+	"race":"race",
+
+	"relief":"verlichting",
+
+	"sand":"zand",
+
+	"sentence":"zin",
+
+	"shoulder":"schouder",
+
+	"smoke":"rook",
+
+	"stomach":"maag",
+
+	"string":"tekenreeks",
+
+	"tourist":"toeristische",
+
+	"towel":"handdoek",
+
+	"vacation":"vakantie",
+
+	"west":"west",
+
+	"wheel":"wiel",
+
+	"wine":"wijn",
+
+	"arm":"arm",
+
+	"aside":"opzij",
+
+	"associate":"koppelen",
+
+	"bet":"maar",
+
+	"blow":"klap",
+
+	"border":"grens",
+
+	"branch":"tak",
+
+	"breast":"borst",
+
+	"brother":"broer",
+
+	"buddy":"buddy",
+
+	"bunch":"bos",
+
+	"chip":"chip",
+
+	"coach":"coach",
+
+	"cross":"kruis",
+
+	"document":"document",
+
+	"draft":"ontwerp",
+
+	"dust":"stof",
+
+	"expert":"expert",
+
+	"floor":"vloer",
+
+	"god":"god",
+
+	"golf":"golf",
+
+	"habit":"gewoonte",
+
+	"iron":"ijzer",
+
+	"judge":"rechter",
+
+	"knife":"mes",
+
+	"landscape":"landschap",
+
+	"league":"liga",
+
+	"mail":"mail",
+
+	"mess":"puinhoop",
+
+	"native":"native",
+
+	"opening":"opening",
+
+	"parent":"bovenliggende",
+
+	"pattern":"patroon",
+
+	"pin":"pin",
+
+	"pool":"zwembad",
+
+	"pound":"pond",
+
+	"request":"aanvraag",
+
+	"salary":"salaris",
+
+	"shame":"schande",
+
+	"shelter":"shelter",
+
+	"shoe":"schoen",
+
+	"silver":"zilver",
+
+	"tackle":"aan te pakken",
+
+	"tank":"tank",
+
+	"trust":"vertrouwen",
+
+	"assist":"assist",
+
+	"bake":"bak",
+
+	"bar":"bar",
+
+	"bell":"bell",
+
+	"bike":"fiets",
+
+	"blame":"schuld",
+
+	"boy":"jongen",
+
+	"brick":"baksteen",
+
+	"chair":"stoel",
+
+	"closet":"kast",
+
+	"clue":"aanwijzing",
+
+	"collar":"kraag",
+
+	"comment":"commentaar",
+
+	"conference":"conferentie",
+
+	"devil":"duivel",
+
+	"diet":"dieet",
+
+	"fear":"angst",
+
+	"fuel":"brandstof",
+
+	"glove":"handschoen",
+
+	"jacket":"jas",
+
+	"lunch":"lunch",
+
+	"monitor":"monitor",
+
+	"mortgage":"hypotheek",
+
+	"nurse":"verpleegkundige",
+
+	"pace":"tempo",
+
+	"panic":"paniek",
+
+	"peak":"piek",
+
+	"plane":"vliegtuig",
+
+	"reward":"beloning",
+
+	"row":"rij",
+
+	"sandwich":"sandwich",
+
+	"shock":"schok",
+
+	"spite":"ondanks",
+
+	"spray":"spray",
+
+	"surprise":"verrassing",
+
+	"till":"aan",
+
+	"transition":"overgang",
+
+	"weekend":"weekend",
+
+	"welcome":"welkom",
+
+	"yard":"werf",
+
+	"alarm":"alarm",
+
+	"bend":"bend",
+
+	"bicycle":"fiets",
+
+	"bite":"beet",
+
+	"blind":"blind",
+
+	"bottle":"fles",
+
+	"cable":"kabel",
+
+	"candle":"kaars",
+
+	"clerk":"klerk",
+
+	"cloud":"wolk",
+
+	"concert":"concert",
+
+	"counter":"teller",
+
+	"flower":"bloem",
+
+	"grandfather":"grootvader",
+
+	"harm":"schade",
+
+	"knee":"knie",
+
+	"lawyer":"advocaat",
+
+	"leather":"leder",
+
+	"load":"laden",
+
+	"mirror":"spiegel",
+
+	"neck":"nek",
+
+	"pension":"pensioen",
+
+	"plate":"plaat",
+
+	"purple":"paars",
+
+	"ship":"schip",
+
+	"skirt":"rok",
+
+	"slice":"segment",
+
+	"snow":"sneeuw",
+
+	"specialist":"specialist",
+
+	"stroke":"beroerte",
+
+	"switch":"schakelaar",
+
+	"trash":"prullenbak",
+
+	"tune":"tune",
+
+	"zone":"zone",
+
+	"anger":"woede",
+
+	"award":"award",
+
+	"bid":"bod",
+
+	"bitter":"bitter",
+
+	"boot":"boot",
+
+	"bug":"bug",
+
+	"camp":"kamp",
+
+	"candy":"snoep",
+
+	"carpet":"tapijt",
+
+	"cat":"kat",
+
+	"champion":"kampioen",
+
+	"channel":"kanaal",
+
+	"clock":"klok",
+
+	"comfort":"comfort",
+
+	"cow":"koe",
+
+	"crack":"crack",
+
+	"engineer":"ingenieur",
+
+	"entrance":"ingang",
+
+	"fault":"schuld",
+
+	"grass":"gras",
+
+	"guy":"guy",
+
+	"hell":"hel",
+
+	"highlight":"hoogtepunt",
+
+	"incident":"incident",
+
+	"island":"eiland",
+
+	"joke":"grap",
+
+	"jury":"jury",
+
+	"leg":"been",
+
+	"lip":"lip",
+
+	"mate":"stuurman",
+
+	"motor":"motor",
+
+	"nerve":"zenuw",
+
+	"passage":"passage",
+
+	"pen":"pen",
+
+	"pride":"trots",
+
+	"priest":"priester",
+
+	"prize":"prijs",
+
+	"promise":"belofte",
+
+	"resident":"resident",
+
+	"resort":"resort",
+
+	"ring":"ring",
+
+	"roof":"dak",
+
+	"rope":"touw",
+
+	"sail":"zeil",
+
+	"scheme":"regeling",
+
+	"script":"script",
+
+	"sock":"sok",
+
+	"station":"station",
+
+	"toe":"toe",
+
+	"tower":"toren",
+
+	"truck":"vrachtwagen",
+
+	"witness":"getuige",
+
+	"you":"u",
+
+	"it":"het",
+
+	"can":"kan",
+
+	"will":"zal",
+
+	"if":"als",
+
+	"one":"een",
+
+	"many":"veel",
+
+	"most":"de meeste",
+
+	"other":"andere",
+
+	"use":"gebruik",
+
+	"make":"maken",
+
+	"good":"goede",
+
+	"look":"blik",
+
+	"help":"help",
+
+	"go":"gaan",
+
+	"great":"grote",
+
+	"being":"wordt",
+
+	"few":"paar",
+
+	"might":"misschien",
+
+	"still":"nog steeds",
+
+	"public":"openbare",
+
+	"read":"lezen",
+
+	"keep":"houden",
+
+	"start":"start",
+
+	"give":"geven",
+
+	"human":"menselijke",
+
+	"local":"lokale",
+
+	"general":"algemene",
+
+	"she":"ze",
+
+	"specific":"specifieke",
+
+	"long":"lange",
+
+	"play":"spelen",
+
+	"feel":"gevoel",
+
+	"high":"hoge",
+
+	"tonight":"vanavond",
+
+	"put":"zetten",
+
+	"common":"gemeenschappelijk",
+
+	"set":"instellen",
+
+	"change":"wijzigen",
+
+	"simple":"eenvoudige",
+
+	"past":"verleden",
+
+	"big":"grote",
+
+	"possible":"mogelijk",
+
+	"particular":"bepaalde",
+
+	"today":"vandaag",
+
+	"major":"grote",
+
+	"personal":"persoonlijke",
+
+	"current":"huidige",
+
+	"national":"nationale",
+
+	"cut":"knippen",
+
+	"natural":"natuurlijke",
+
+	"physical":"fysieke",
+
+	"show":"toon",
+
+	"try":"probeer",
+
+	"check":"selectievakje",
+
+	"second":"tweede",
+
+	"call":"oproep",
+
+	"move":"verplaatsen",
+
+	"pay":"betalen",
+
+	"let":"laat",
+
+	"increase":"verhoging van de",
+
+	"single":"enkele",
+
+	"individual":"individuele",
+
+	"turn":"beurt",
+
+	"ask":"vragen",
+
+	"buy":"kopen",
+
+	"guard":"bewaker",
+
+	"hold":"houd",
+
+	"main":"belangrijkste",
+
+	"offer":"aanbieding",
+
+	"potential":"potentieel",
+
+	"professional":"professionele",
+
+	"international":"internationale",
+
+	"travel":"reizen",
+
+	"cook":"koken",
+
+	"alternative":"alternatief",
+
+	"following":"volgende",
+
+	"special":"speciale",
+
+	"working":"werken",
+
+	"whole":"geheel",
+
+	"dance":"dans",
+
+	"excuse":"excuus",
+
+	"cold":"koude",
+
+	"low":"lage",
+
+	"purchase":"aankoop",
+
+	"deal":"deal",
+
+	"primary":"primaire",
+
+	"worth":"waard",
+
+	"fall":"val",
+
+	"necessary":"nodig",
+
+	"positive":"positieve",
+
+	"produce":"produceren",
+
+	"search":"zoek",
+
+	"present":"aanwezig",
+
+	"spend":"besteden",
+
+	"talk":"praten",
+
+	"creative":"creatieve",
+
+	"tell":"vertellen",
+
+	"cost":"kosten",
+
+	"drive":"station",
+
+	"green":"groen",
+
+	"support":"ondersteuning",
+
+	"glad":"blij",
+
+	"remove":"verwijderen",
+
+	"return":"terugkeer",
+
+	"run":"uitvoeren",
+
+	"complex":"complexe",
+
+	"due":"twee",
+
+	"effective":"effectieve",
+
+	"middle":"midden",
+
+	"regular":"regelmatige",
+
+	"reserve":"reserveren",
+
+	"independent":"onafhankelijke",
+
+	"leave":"verlof",
+
+	"original":"origineel",
+
+	"reach":"reach",
+
+	"rest":"rest",
+
+	"serve":"serve",
+
+	"watch":"horloge",
+
+	"beautiful":"mooie",
+
+	"charge":"gratis",
+
+	"active":"actieve",
+
+	"break":"pauze",
+
+	"negative":"negatieve",
+
+	"safe":"veilig",
+
+	"stay":"verblijf",
+
+	"visit":"bezoek",
+
+	"visual":"visuele",
+
+	"affect":"invloed op",
+
+	"cover":"dekking",
+
+	"report":"verslag",
+
+	"rise":"opkomst",
+
+	"walk":"wandeling",
+
+	"white":"wit",
+
+	"beyond":"buiten",
+
+	"junior":"junior",
+
+	"pick":"pick",
+
+	"unique":"unieke",
+
+	"anything":"iets",
+
+	"classic":"classic",
+
+	"final":"laatste",
+
+	"lift":"lift",
+
+	"mix":"mix",
+
+	"stop":"stop",
+
+	"teach":"leren",
+
+	"western":"westerse",
+
+	"concern":"zorg",
+
+	"familiar":"vertrouwd",
+
+	"fly":"vliegen",
+
+	"broad":"brede",
+
+	"comfortable":"comfortabele",
+
+	"gain":"winst",
+
+	"maybe":"misschien",
+
+	"rich":"rijke",
+
+	"save":"opslaan",
+
+	"stand":"stand",
+
+	"young":"jonge",
+
+	"fail":"fail",
+
+	"heavy":"zware",
+
+	"hello":"hallo",
+
+	"lead":"leiden",
+
+	"listen":"luisteren",
+
+	"valuable":"waardevolle",
+
+	"worry":"zorg",
+
+	"handle":"handvat",
+
+	"leading":"leiden",
+
+	"meet":"voldoen aan",
+
+	"release":"release",
+
+	"sell":"verkopen",
+
+	"finish":"afwerking",
+
+	"normal":"normale",
+
+	"press":"druk op",
+
+	"ride":"rit",
+
+	"secret":"geheim",
+
+	"spread":"verspreiding",
+
+	"spring":"lente",
+
+	"tough":"taai",
+
+	"wait":"wachten",
+
+	"brown":"bruin",
+
+	"deep":"diep",
+
+	"display":"weergeven",
+
+	"flow":"stroom",
+
+	"hit":"hit",
+
+	"objective":"doelstelling",
+
+	"shoot":"schieten",
+
+	"touch":"touch",
+
+	"cancel":"annuleren",
+
+	"chemical":"chemische stof",
+
+	"cry":"cry",
+
+	"dump":"dump",
+
+	"extreme":"extreme",
+
+	"push":"push",
+
+	"conflict":"conflict",
+
+	"eat":"eten",
+
+	"fill":"opvulling",
+
+	"formal":"formele",
+
+	"jump":"-stap-springen",
+
+	"kick":"kick",
+
+	"opposite":"tegenovergestelde",
+
+	"pass":"pass",
+
+	"pitch":"toonhoogte",
+
+	"remote":"externe",
+
+	"total":"totaal",
+
+	"treat":"traktatie",
+
+	"vast":"enorme",
+
+	"abuse":"misbruik",
+
+	"beat":"beat",
+
+	"burn":"branden",
+
+	"deposit":"storting",
+
+	"print":"afdrukken",
+
+	"raise":"verhogen",
+
+	"sleep":"slaap",
+
+	"somewhere":"ergens",
+
+	"advance":"voorschot",
+
+	"anywhere":"overal",
+
+	"consist":"bestaan",
+
+	"dark":"donker",
+
+	"double":"dubbele",
+
+	"draw":"loting",
+
+	"equal":"gelijk",
+
+	"fix":"fix",
+
+	"hire":"huren",
+
+	"internal":"interne",
+
+	"join":"join",
+
+	"kill":"doden",
+
+	"sensitive":"gevoelige",
+
+	"tap":"tik op",
+
+	"win":"win",
+
+	"attack":"aanval",
+
+	"claim":"vordering",
+
+	"constant":"constante",
+
+	"drag":"sleep",
+
+	"drink":"drankje",
+
+	"guess":"gok",
+
+	"minor":"kleine",
+
+	"pull":"pull",
+
+	"raw":"raw",
+
+	"soft":"zachte",
+
+	"solid":"solide",
+
+	"wear":"slijtage",
+
+	"weird":"weird",
+
+	"wonder":"vraag me af",
+
+	"annual":"jaarlijkse",
+
+	"count":"graaf",
+
+	"dead":"dood",
+
+	"doubt":"twijfel",
+
+	"feed":"diervoeders",
+
+	"forever":"forever",
+
+	"impress":"impress",
+
+	"nobody":"niemand",
+
+	"repeat":"herhaal",
+
+	"round":"ronde",
+
+	"sing":"zingen",
+
+	"slide":"dia",
+
+	"strip":"strip",
+
+	"whereas":"overwegende dat",
+
+	"wish":"wens",
+
+	"combine":"combineren",
+
+	"command":"opdracht",
+
+	"dig":"u",
+
+	"divide":"kloof",
+
+	"equivalent":"equivalent",
+
+	"hang":"hang",
+
+	"hunt":"jagen",
+
+	"initial":"eerste",
+
+	"march":"maart",
+
+	"mention":"vermelding",
+
+	"smell":"geur",
+
+	"spiritual":"geestelijke",
+
+	"tie":"stropdas",
+
+	"adult":"volwassene",
+
+	"brief":"korte",
+
+	"crazy":"gek",
+
+	"escape":"escape",
+
+	"gather":"verzamelen",
+
+	"hate":"haat",
+
+	"prior":"voorafgaande",
+
+	"repair":"reparatie",
+
+	"rough":"ruw",
+
+	"sad":"triest",
+
+	"scratch":"kras",
+
+	"sick":"ziek",
+
+	"strike":"staking",
+
+	"employ":"dienst",
+
+	"external":"externe",
+
+	"hurt":"pijn doen",
+
+	"illegal":"illegale",
+
+	"laugh":"lachen",
+
+	"lay":"leggen",
+
+	"mobile":"mobiele",
+
+	"nasty":"vervelende",
+
+	"ordinary":"gewone",
+
+	"respond":"reageren",
+
+	"royal":"koninklijke",
+
+	"senior":"senior",
+
+	"split":"split",
+
+	"strain":"stam",
+
+	"struggle":"strijd",
+
+	"swim":"zwemmen",
+
+	"train":"trein",
+
+	"upper":"bovenste",
+
+	"wash":"wassen",
+
+	"yellow":"geel",
+
+	"convert":"converteren",
+
+	"crash":"crash",
+
+	"dependent":"afhankelijk",
+
+	"fold":"vouwen",
+
+	"funny":"grappig",
+
+	"grab":"pak",
+
+	"hide":"verbergen",
+
+	"miss":"miss",
+
+	"permit":"vergunning",
+
+	"quote":"offerte",
+
+	"recover":"herstellen",
+
+	"resolve":"oplossen",
+
+	"roll":"roll",
+
+	"sink":"wastafel",
+
+	"slip":"slip",
+
+	"spare":"reserve",
+
+	"suspect":"verdachte",
+
+	"sweet":"sweet",
+
+	"swing":"swing",
+
+	"twist":"twist",
+
+	"upstairs":"naar boven",
+
+	"usual":"gebruikelijke",
+
+	"abroad":"in het buitenland",
+
+	"brave":"dappere",
+
+	"calm":"rust",
+
+	"concentrate":"concentraat",
+
+	"estimate":"schatten",
+
+	"grand":"grand",
+
+	"male":"man",
+
+	"mine":"mijne",
+
+	"prompt":"prompt",
+
+	"quiet":"rustig",
+
+	"refuse":"weigeren",
+
+	"regret":"spijt",
+
+	"reveal":"onthullen",
+
+	"rush":"rush",
+
+	"shake":"schudden",
+
+	"shift":"shift",
+
+	"shine":"glans",
+
+	"steal":"stelen",
+
+	"suck":"zuigen",
+
+	"surround":"surround",
+
+	"anybody":"om het even wie",
+
+	"bear":"beer",
+
+	"brilliant":"briljant",
+
+	"dare":"om te geven",
+
+	"dear":"lieve",
+
+	"delay":"vertraging",
+
+	"drunk":"dronken",
+
+	"female":"vrouw",
+
+	"hurry":"haast",
+
+	"inevitable":"onvermijdelijk",
+
+	"invite":"uitnodigen",
+
+	"kiss":"kus",
+
+	"neat":"nette",
+
+	"pop":"pop",
+
+	"punch":"punch",
+
+	"quit":"sluit af",
+
+	"reply":"antwoord",
+
+	"representative":"vertegenwoordiger",
+
+	"resist":"resist",
+
+	"rip":"rip",
+
+	"rub":"wrijf",
+
+	"silly":"dom",
+
+	"smile":"glimlach",
+
+	"spell":"spell",
+
+	"stretch":"rekken",
+
+	"stupid":"dom",
+
+	"tear":"scheur",
+
+	"temporary":"tijdelijke",
+
+	"tomorrow":"morgen",
+
+	"wake":"wekdienst",
+
+	"wrap":"wrap",
+
+	"yesterday":"gisteren"
+
+}
