@@ -56,6 +56,16 @@ var script = document.createElement('script');
 script.textContent = onTranslationClickVar;
 (document.head||document.documentElement).appendChild(script);
 
+// Init the users localStorage space. 
+if (localStorage.newUser == null){
+	console.log("hello new user.");
+	// Store the fact that the user's local storage has been initialized.
+	localStorage.newUser = 0;
+	for (var key in words) {
+		localStorage[key] = "{ \"occurences\":0, \"translations\":0 }";
+	}
+}
+
 // Main code section:
 var bracketBalance;
 var indexOfPreviousWordBreak;
@@ -85,3 +95,19 @@ for (paragraph of paragraphs) {
 	}
 	paragraph.innerHTML = paragraphHTML;
 };
+ 
+// Init the users localStorage space. 
+// Store the fact that the user's local storage has been initialized.
+for (var key in words) {
+	console.log(JSON.parse(localStorage[key]));
+}
+
+
+
+
+localStorage.clear();
+
+
+
+
+

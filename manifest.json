@@ -3,7 +3,8 @@
   "description": "Learn a language seamlessly by partly translating the content of webpages",
   "version": "0.2",
   "permissions": [
-      "activeTab"
+      "activeTab",
+	  "storage"
     ],
   "background": {
       "scripts": ["content.js", "main.js"],
