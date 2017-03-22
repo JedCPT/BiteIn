@@ -7,8 +7,9 @@
 
 from microsofttranslator import Translator
 
-client_id = 'DzedCPT'
-client_secret = 'CaC7L+rnf4QhjOBuths2pcClyHewHz7XQtyEBbKmXHY='
+
+client_id = #Add microsoft login details here 
+client_secret = #Add microsoft password here. 
 translator = Translator(client_id, client_secret)
 
 
