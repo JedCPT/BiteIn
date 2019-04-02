@@ -1,12 +1,7 @@
-# Accenture Hackathon (November 26 - 27, 2016) in Amsterdam.
+A chrome extension designed to help people learn languages by partially translating webpages while you browsing the internet. 
 
-## Team Savannah:
-
-* Amine Rhord - hi@aminerhord.com,
-* Jedda Boyle - jeddaboyle@gmail.com
-* Paulina Siwak - paulina.siwak94@gmail.com,
-* Taavi Kivisik - taavi.kivisik@gmail.com
-* Zhi Li - zhi.li.work@gmail.com
+This was later done more professionally by:
+https://chrome.google.com/webstore/detail/gloss-learn-languages/cadmlempckeoanlfpdnalmhfmjpifaeb?hl=en
 
 ## TODO List
 * Add characters to the allowed word break set. eg < and >
